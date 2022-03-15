@@ -1,0 +1,38 @@
+.btn,
+button {
+    font-family: $font-title;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: .22px;
+    min-width: 246px;
+    height: 77px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: $color-green;
+    background-color: $color-orange;
+    padding: 10px 15px;
+    border: 1.2px solid $color-orange;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+
+    &:focus {
+        outline: none;
+    }
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.btn-lg {
+    min-width: 352px;
+    height: 110px;
+    border-radius: 60px;
+    font-size: 33px;
+    letter-spacing: .33px;
+    line-height: 38px;
+}

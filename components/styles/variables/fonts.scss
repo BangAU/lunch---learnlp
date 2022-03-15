@@ -1,0 +1,273 @@
+$font: "Rubik";
+$font-title: "Karla";
+$font-bold: "Bebas Neue";
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-BoldItalic.eot");
+    src: url("../fonts/Karla-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-BoldItalic.woff2") format("woff2"), url("../fonts/Karla-BoldItalic.woff") format("woff"), url("../fonts/Karla-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-Bold.eot");
+    src: url("../fonts/Karla-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-Bold.woff2") format("woff2"), url("../fonts/Karla-Bold.woff") format("woff"), url("../fonts/Karla-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-ExtraBold.eot");
+    src: url("../fonts/Karla-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-ExtraBold.woff2") format("woff2"), url("../fonts/Karla-ExtraBold.woff") format("woff"), url("../fonts/Karla-ExtraBold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-ExtraBoldItalic.eot");
+    src: url("../fonts/Karla-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/Karla-ExtraBoldItalic.woff") format("woff"), url("../fonts/Karla-ExtraBoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-ExtraLight.eot");
+    src: url("../fonts/Karla-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-ExtraLight.woff2") format("woff2"), url("../fonts/Karla-ExtraLight.woff") format("woff"), url("../fonts/Karla-ExtraLight.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-ExtraLightItalic.eot");
+    src: url("../fonts/Karla-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-ExtraLightItalic.woff2") format("woff2"), url("../fonts/Karla-ExtraLightItalic.woff") format("woff"), url("../fonts/Karla-ExtraLightItalic.ttf") format("truetype");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-Italic.eot");
+    src: url("../fonts/Karla-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-Italic.woff2") format("woff2"), url("../fonts/Karla-Italic.woff") format("woff"), url("../fonts/Karla-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-LightItalic.eot");
+    src: url("../fonts/Karla-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-LightItalic.woff2") format("woff2"), url("../fonts/Karla-LightItalic.woff") format("woff"), url("../fonts/Karla-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-Light.eot");
+    src: url("../fonts/Karla-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-Light.woff2") format("woff2"), url("../fonts/Karla-Light.woff") format("woff"), url("../fonts/Karla-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-Regular.eot");
+    src: url("../fonts/Karla-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-Regular.woff2") format("woff2"), url("../fonts/Karla-Regular.woff") format("woff"), url("../fonts/Karla-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-Medium.eot");
+    src: url("../fonts/Karla-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-Medium.woff2") format("woff2"), url("../fonts/Karla-Medium.woff") format("woff"), url("../fonts/Karla-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-MediumItalic.eot");
+    src: url("../fonts/Karla-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-MediumItalic.woff2") format("woff2"), url("../fonts/Karla-MediumItalic.woff") format("woff"), url("../fonts/Karla-MediumItalic.ttf") format("truetype");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-SemiBoldItalic.eot");
+    src: url("../fonts/Karla-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-SemiBoldItalic.woff2") format("woff2"), url("../fonts/Karla-SemiBoldItalic.woff") format("woff"), url("../fonts/Karla-SemiBoldItalic.ttf") format("truetype");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url("../fonts/Karla-SemiBold.eot");
+    src: url("../fonts/Karla-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Karla-SemiBold.woff2") format("woff2"), url("../fonts/Karla-SemiBold.woff") format("woff"), url("../fonts/Karla-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Black.eot");
+    src: url("../fonts/Rubik-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Black.woff2") format("woff2"), url("../fonts/Rubik-Black.woff") format("woff"), url("../fonts/Rubik-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-BlackItalic.eot");
+    src: url("../fonts/Rubik-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-BlackItalic.woff2") format("woff2"), url("../fonts/Rubik-BlackItalic.woff") format("woff"), url("../fonts/Rubik-BlackItalic.ttf") format("truetype");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Bold.eot");
+    src: url("../fonts/Rubik-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Bold.woff2") format("woff2"), url("../fonts/Rubik-Bold.woff") format("woff"), url("../fonts/Rubik-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Italic.eot");
+    src: url("../fonts/Rubik-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Italic.woff2") format("woff2"), url("../fonts/Rubik-Italic.woff") format("woff"), url("../fonts/Rubik-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-ExtraBold.eot");
+    src: url("../fonts/Rubik-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-ExtraBold.woff2") format("woff2"), url("../fonts/Rubik-ExtraBold.woff") format("woff"), url("../fonts/Rubik-ExtraBold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-BoldItalic.eot");
+    src: url("../fonts/Rubik-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-BoldItalic.woff2") format("woff2"), url("../fonts/Rubik-BoldItalic.woff") format("woff"), url("../fonts/Rubik-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-ExtraBoldItalic.eot");
+    src: url("../fonts/Rubik-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/Rubik-ExtraBoldItalic.woff") format("woff"), url("../fonts/Rubik-ExtraBoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-LightItalic.eot");
+    src: url("../fonts/Rubik-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-LightItalic.woff2") format("woff2"), url("../fonts/Rubik-LightItalic.woff") format("woff"), url("../fonts/Rubik-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Light.eot");
+    src: url("../fonts/Rubik-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Light.woff2") format("woff2"), url("../fonts/Rubik-Light.woff") format("woff"), url("../fonts/Rubik-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Medium.eot");
+    src: url("../fonts/Rubik-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Medium.woff2") format("woff2"), url("../fonts/Rubik-Medium.woff") format("woff"), url("../fonts/Rubik-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-MediumItalic.eot");
+    src: url("../fonts/Rubik-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-MediumItalic.woff2") format("woff2"), url("../fonts/Rubik-MediumItalic.woff") format("woff"), url("../fonts/Rubik-MediumItalic.ttf") format("truetype");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-Regular.eot");
+    src: url("../fonts/Rubik-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-Regular.woff2") format("woff2"), url("../fonts/Rubik-Regular.woff") format("woff"), url("../fonts/Rubik-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-SemiBoldItalic.eot");
+    src: url("../fonts/Rubik-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-SemiBoldItalic.woff2") format("woff2"), url("../fonts/Rubik-SemiBoldItalic.woff") format("woff"), url("../fonts/Rubik-SemiBoldItalic.ttf") format("truetype");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik-SemiBold.eot");
+    src: url("../fonts/Rubik-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Rubik-SemiBold.woff2") format("woff2"), url("../fonts/Rubik-SemiBold.woff") format("woff"), url("../fonts/Rubik-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url("../fonts/BebasNeue-Regular.eot");
+    src: url("../fonts/BebasNeue-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeue-Regular.woff2") format("woff2"), url("../fonts/BebasNeue-Regular.woff") format("woff"), url("../fonts/BebasNeue-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url("../fonts/BebasNeue-Thin.eot");
+    src: url("../fonts/BebasNeue-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeue-Thin.woff2") format("woff2"), url("../fonts/BebasNeue-Thin.woff") format("woff"), url("../fonts/BebasNeue-Thin.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

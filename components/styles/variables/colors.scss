@@ -1,0 +1,52 @@
+$color-orange: #ffa35b;
+$color-green: #213934;
+$color-gray: #e2dbd7;
+
+$color-black: #213934;
+$color-white: #fff;
+
+$color-border: #ddddde;
+
+.color {
+    &-orange {
+        color: $color-orange !important;
+    }
+
+    &-green {
+        color: $color-green !important;
+    }
+
+    &-gray {
+        color: $color-gray !important;
+    }
+
+    &-black {
+        color: $color-black !important;
+    }
+
+    &-white {
+        color: $color-white !important;
+    }
+}
+
+.bgcolor {
+    &-orange {
+        background-color: $color-orange !important;
+    }
+
+    &-green {
+        background-color: $color-green !important;
+    }
+
+    &-gray {
+        background-color: $color-gray !important;
+    }
+
+    &-black {
+        background-color: $color-black !important;
+    }
+
+    &-white {
+        background-color: $color-white !important;
+    }
+}
