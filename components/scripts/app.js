@@ -11,6 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // header on scroll
     headerScroll()
 
+    // sidenav toggle
+    sideNav()
+
     // speakers slider
     speakersSlider()
 
@@ -19,6 +22,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // table wrap
     tableLoadmore()
+
+    // scroll to next section
+    scrollNextSection()
+
+    // upcoming table
+    upcomingTableReadMore()
 });
 
 //function called on window resize
@@ -26,6 +35,11 @@ win.on('resize', function () {});
 
 
 /*****  Declare your functions here  ********/
+
+AOS.init({
+    once: true,
+});
+
 
 function scrollDownSection() {
     $('.scrolldown-arrow').click(function () {
@@ -60,9 +74,9 @@ function joinCirc() {
     window.onscroll = function () {
 
         //Determine the amount to rotate by.
-        var deg = (-window.scrollY * (360 / bodyHeight)) / 2.5;
+        var deg = (-window.scrollY * (360 / bodyHeight)) * 1.5;
 
-        $('.join-circle').css({
+        $('.join-circle img').css({
             "transform": "rotate(" + deg + "deg)",
         });
 
@@ -94,6 +108,63 @@ function tableLoadmore() {
             tableWrap.animate({
                 height: (tableObjHeight + 160)
             }, 500)
+        }
+    })
+}
+
+function scrollNextSection() {
+    $(".scroll-nextsec").click(function (event) {
+        const parentSection = $(this).parents('.section'),
+            nextSection = parentSection.next();
+
+        $('html, body')
+            .stop()
+            .animate({
+                    scrollTop: nextSection.offset().top - $('.header').height(),
+                },
+                1000
+            );
+        event.preventDefault();
+    });
+}
+
+function sideNav() {
+    const btnTrigger = $('.btn-sidenav'),
+        sideNav = $('.sidenav'),
+        sideNavBackdrop = $('.sidenav-backdrop');
+
+    btnTrigger.click(function () {
+        if (sideNav.hasClass('active')) {
+            sideNavBackdrop.fadeOut()
+            sideNav.removeClass('active');
+            $('html').css('overflowY', '');
+        } else {
+            sideNavBackdrop.fadeIn()
+            sideNav.addClass('active');
+            $('html').css('overflowY', 'hidden');
+        }
+    })
+
+    sideNavBackdrop.click(function () {
+        sideNavBackdrop.fadeOut()
+        sideNav.removeClass('active');
+        $('html').css('overflowY', '');
+    })
+}
+
+function upcomingTableReadMore() {
+    $('.btn-read').click(function (event) {
+        event.preventDefault();
+        const siblingContent = $(this).siblings('p');
+
+        if (siblingContent.is(':visible')) {
+            siblingContent.slideUp();
+            $(this).removeClass('less')
+            $(this).text('read more');
+        } else {
+            siblingContent.slideDown();
+            $(this).addClass('less');
+            $(this).text('read less');
         }
     })
 }

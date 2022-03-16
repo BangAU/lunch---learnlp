@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
     margin: 0;
     max-width: 100%;
@@ -14,14 +19,13 @@ body {
     margin: 0 auto;
     width: 100%;
 
-    @include respond-to(tablet) {
-        padding: 0 20px;
-    }
+    // @include respond-to(tablet) {
+    //     padding: 0 20px;
+    // }
 
-
-    @include respond-to(mobile-large) {
-        padding: 0 15px;
-    }
+    // @include respond-to(mobile-large) {
+    //     padding: 0 15px;
+    // }
 }
 
 .section {
@@ -34,7 +38,6 @@ body {
 
     &-bg {
         z-index: -1;
-
         @include absoldefault;
 
         img {
@@ -241,6 +244,10 @@ body {
     display: block;
     width: 100%;
     margin: 68px 0 47px;
+
+    @media (max-width: 991px) {
+        margin: 58px 0 44px;
+    }
 
     &::before {
         content: "";

@@ -3,7 +3,7 @@ button {
     font-family: $font-title;
     font-size: 22px;
     line-height: 26px;
-    letter-spacing: .22px;
+    letter-spacing: 0.22px;
     min-width: 246px;
     height: 77px;
     display: inline-flex;
@@ -18,12 +18,15 @@ button {
     text-decoration: none;
     -webkit-appearance: none;
     cursor: pointer;
+    transition: all .3s ease-out;
 
     &:focus {
         outline: none;
     }
 
     &:hover {
+        color: $color-orange;
+        background-color: transparent;
         text-decoration: none;
     }
 }
@@ -33,6 +36,56 @@ button {
     height: 110px;
     border-radius: 60px;
     font-size: 33px;
-    letter-spacing: .33px;
+    letter-spacing: 0.33px;
     line-height: 38px;
+
+    @media (max-width: 991px) {
+        min-width: 286px;
+        height: 89px;
+        font-size: 25px;
+        line-height: 29px;
+        letter-spacing: 0.25px;
+    }
+}
+
+.btn-sidenav {
+    width: 23px;
+    height: 16px;
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+    min-width: 1px;
+    height: auto;
+    cursor: pointer;
+
+    svg {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.btn-read {
+    display: inline-flex;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .3s ease-out;
+
+    &:hover {
+        color: $color-orange;
+        text-decoration: none;
+    }
+
+    &::after {
+        content: "+";
+        margin-left: 5px;
+    }
+
+    &.less {
+        &::after {
+            content: "-";
+        }
+    }
 }

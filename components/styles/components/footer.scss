@@ -5,9 +5,17 @@
     padding-top: 100px;
     overflow: hidden;
 
+    @media (max-width: 991px) {
+        padding-top: 45px;
+    }
+
     .inner {
         position: relative;
         padding: 100px 0 43px;
+
+        @media (max-width: 991px) {
+            padding: 62px 0 38px;
+        }
     }
 
     .section-bg {
@@ -29,6 +37,10 @@
         transform: translateX(-50%);
         width: 841px;
 
+        @media (max-width: 991px) {
+            width: 367px;
+        }
+
         img {
             width: 100%;
             animation: rotate 50s linear infinite;
@@ -37,7 +49,6 @@
 
     .logo {
         width: 161px;
-
         @include margin-auto;
 
         img {
@@ -48,8 +59,16 @@
     .copyright {
         margin-top: 55px;
 
+        @media (max-width: 991px) {
+            margin-top: 38px;
+        }
+
         p {
             margin-bottom: 0;
+
+            @media (max-width: 991px) {
+                font-size: 14px;
+            }
         }
     }
 }

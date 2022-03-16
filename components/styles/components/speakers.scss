@@ -1,0 +1,223 @@
+.section-speakers {
+    color: #fff;
+    background-color: $color-green;
+    padding: 68px 0 42px;
+
+    .shapes {
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 6.5px;
+            height: 321.5px;
+            background-color: $color-orange;
+        }
+
+        @media (max-width: 991px) {
+            display: none;
+        }
+    }
+
+    .barcode {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 321.5px;
+        height: 6.5px;
+        display: flex;
+        align-items: flex-start;
+
+        img {
+            @include imgfit;
+        }
+
+        @media (max-width: 991px) {
+            display: none;
+        }
+    }
+
+    > .layout-container {
+        max-width: 100%;
+        padding: 0;
+
+        @media (min-width: 992px) {}
+    }
+}
+
+.speakers {
+    .title {
+        text-align: center;
+
+        .title-divider {
+            margin: 20px 0 78px;
+
+            @media (max-width: 991px) {
+                margin: 20px 0 32px;
+            }
+
+            &::before {
+                @include margin-auto;
+
+                background-color: #fff;
+            }
+        }
+    }
+
+    &-slider {
+        &.slick-slider {
+            margin-bottom: 79px;
+
+            @media (max-width: 991px) {
+                margin-bottom: 66px;
+            }
+        }
+
+        .slick {
+            &-list {
+                @media (min-width: 992px) {
+                    margin: 0 -30px;
+                }
+            }
+
+            &-prev,
+            &-next {
+                z-index: 1;
+                min-width: 1px;
+                width: 52px;
+                height: 52px;
+                padding: 0;
+                background-color: transparent;
+                border-color: #fff;
+                border-style: solid;
+                border-radius: 0;
+                transform: translateY(-50%) rotate(-45deg);
+
+                @media (max-width: 991px) {
+                    display: none !important;
+                }
+
+                &::before {
+                    display: none;
+                }
+
+                &.slick-disabled {
+                    opacity: .25;
+                }
+            }
+
+            &-prev {
+                left: 27px;
+                border-width: 1px 0 0 1px;
+            }
+
+            &-next {
+                right: 27px;
+                border-width: 0 1px 1px 0;
+            }
+
+            &-dots {
+                position: absolute;
+                bottom: -70px;
+                left: 0;
+
+                @media (max-width: 991px) {
+                    bottom: -66px;
+                }
+
+                li {
+                    width: auto;
+                    height: auto;
+                    margin: 0 6px;
+
+                    button {
+                        width: 9px;
+                        height: 9px;
+                        background-color: #fff;
+                        border-radius: 50%;
+                        min-width: 1px;
+                        padding: 0;
+                        opacity: 1;
+                    }
+
+                    &.slick-active {
+                        button {
+                            background-color: $color-orange;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &-item {
+        @media (min-width: 992px) {
+            .layout-container {
+                padding: 0;
+            }
+        }
+
+        .inner {
+            display: flex;
+            align-items: center;
+            padding: 30px;
+
+            @media (max-width: 991px) {
+                padding: 30px 0 0;
+                flex-wrap: wrap;
+            }
+        }
+
+        .media {
+            position: relative;
+            width: 277px;
+            height: 277px;
+
+            @media (max-width: 991px) {
+                @include margin-auto;
+            }
+
+            .profile {
+                border-radius: 50%;
+            }
+
+            img {
+                @include imgfit;
+            }
+
+            .circ {
+                @include absolcenter;
+
+                width: 324px;
+                height: 324px;
+
+                img {
+                    animation: rotate 20s linear infinite;
+                }
+            }
+        }
+
+        .text {
+            width: calc(100% - 277px);
+            padding-left: 82px;
+
+            @media (max-width: 991px) {
+                padding-top: 53px;
+                padding-left: 0;
+                width: 100%;
+            }
+
+            h5 {
+                margin-bottom: 6px;
+            }
+
+            h6 {
+                margin-bottom: 40px;
+            }
+
+            p {
+                margin-bottom: 0;
+            }
+        }
+    }
+}

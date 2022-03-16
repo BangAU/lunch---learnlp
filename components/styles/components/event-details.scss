@@ -1,0 +1,89 @@
+.section-eventregister-details {
+    z-index: 1;
+    position: relative;
+    padding: 142px 0 123px;
+
+    @media (max-width: 991px) {
+        padding: 50px 0 65px;
+    }
+
+    .join-circle {
+        z-index: 2;
+        position: absolute;
+        top: -250px;
+        right: -230px;
+        width: 696px;
+        height: 696px;
+
+        @media (max-width: 991px) {
+            width: 612px;
+            height: 612px;
+            top: auto;
+            bottom: calc(100% - 120px);
+            right: auto;
+            left: calc(100% - 140px);
+        }
+
+        img {
+            width: 100%;
+            transition: all .3s ease-out;
+        }
+
+        .hero-date {
+            z-index: 2;
+            position: absolute;
+            bottom: 80px;
+            left: 35%;
+            display: flex;
+            flex-flow: column;
+
+            span {
+                display: block;
+                font-family: $font-bold;
+                font-size: 61px;
+                line-height: 73px;
+                font-weight: 700;
+                margin-bottom: 2px;
+                color: #909C99;
+
+                &:not(:last-child) {
+                    &::after {
+                        content: "/";
+                        font-weight: 300;
+                        margin-left: 5px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.eventregister-details {
+    position: relative;
+
+    .join-details {
+        max-width: 670px;
+    }
+
+    &-list {
+        p {
+            margin-bottom: 5px;
+        }
+    }
+}
+
+.who-should-attend {
+    .title {
+        margin-bottom: 30px;
+    }
+
+    .row {
+        margin-left: -50px;
+        margin-right: -50px;
+    }
+
+    [class^="col-"] {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
