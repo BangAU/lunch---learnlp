@@ -165,23 +165,26 @@
         </div>
     </header>
 
-    <div class="sidenav">
-        <div class="sidenav-header">
-            <button class="btn-sidenav app-md ml-auto">
-                <svg xmlns="http://www.w3.org/2000/svg" id="Outline" viewBox="0 0 24 24" width="512" height="512">
-                    <path
-                        d="M23.707.293h0a1,1,0,0,0-1.414,0L12,10.586,1.707.293a1,1,0,0,0-1.414,0h0a1,1,0,0,0,0,1.414L10.586,12,.293,22.293a1,1,0,0,0,0,1.414h0a1,1,0,0,0,1.414,0L12,13.414,22.293,23.707a1,1,0,0,0,1.414,0h0a1,1,0,0,0,0-1.414L13.414,12,23.707,1.707A1,1,0,0,0,23.707.293Z" />
-                </svg>
-            </button>
-        </div>
-        <ul class="nav-list sidenav-list">
-            <li><a href="#about">About</a></li>
-            <li><a href="#speakers">Speakers</a></li>
-            <li><a href="#events">Events</a></li>
-        </ul>
-    </div>
 
-    <div class="sidenav-backdrop"></div>
+    <div class="sidenav-wrap">
+        <div class="sidenav">
+            <div class="sidenav-header">
+                <button class="btn-sidenav app-md ml-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" id="Outline" viewBox="0 0 24 24" width="512" height="512">
+                        <path
+                            d="M23.707.293h0a1,1,0,0,0-1.414,0L12,10.586,1.707.293a1,1,0,0,0-1.414,0h0a1,1,0,0,0,0,1.414L10.586,12,.293,22.293a1,1,0,0,0,0,1.414h0a1,1,0,0,0,1.414,0L12,13.414,22.293,23.707a1,1,0,0,0,1.414,0h0a1,1,0,0,0,0-1.414L13.414,12,23.707,1.707A1,1,0,0,0,23.707.293Z" />
+                    </svg>
+                </button>
+            </div>
+            <ul class="nav-list sidenav-list">
+                <li><a href="#about">About</a></li>
+                <li><a href="#speakers">Speakers</a></li>
+                <li><a href="#events">Events</a></li>
+            </ul>
+        </div>
+
+        <div class="sidenav-backdrop"></div>
+    </div>
 
     <main class="sitecontent">
 
@@ -194,7 +197,8 @@
                             <div class="layout-container">
                                 <div class="text-inner">
                                     <div class="branding">
-                                        <div class="branding-lunch" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500">
+                                        <div class="branding-lunch" data-aos="fade-in" data-aos-easing="linear"
+                                            data-aos-delay="500" data-aos-duration="500">
                                             <svg id="Group_23" data-name="Group 23" xmlns="http://www.w3.org/2000/svg"
                                                 width="562.793" height="121.844" viewBox="0 0 562.793 121.844">
                                                 <path id="Path_24" data-name="Path 24"
@@ -219,7 +223,8 @@
                                                 </svg>
                                             </div>
                                         </div>
-                                        <div class="branding-learn" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1000" data-aos-duration="1000">
+                                        <div class="branding-learn" data-aos="fade-in" data-aos-easing="linear"
+                                            data-aos-delay="1000" data-aos-duration="1000">
                                             <svg id="Group_24" data-name="Group 24" xmlns="http://www.w3.org/2000/svg"
                                                 width="527.982" height="117.725" viewBox="0 0 527.982 117.725">
                                                 <path id="Path_25" data-name="Path 25"
@@ -231,16 +236,19 @@
                                     <div class="title-divider"></div>
                                     <div class="text-events">
                                         <!-- <div class="text-events-content"> -->
-                                        <div class="location" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="900" data-aos-duration="900">
-                                            <h2 >Digital Marketing +</h2>
+                                        <div class="location" data-aos="fade-in" data-aos-easing="linear"
+                                            data-aos-delay="900" data-aos-duration="900">
+                                            <h2>Digital Marketing +</h2>
                                             <h4><span class="font-weight-light">GoToWebinar</span></h4>
                                         </div>
-                                        <div class="time" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1200" data-aos-duration="1200">
+                                        <div class="time" data-aos="fade-in" data-aos-easing="linear"
+                                            data-aos-delay="1200" data-aos-duration="1200">
                                             <h4 class="day">Wednesday 20th April 2022</h4>
                                             <h4 class="hour">1pm - 1:30pm AEST</h4>
                                             <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
                                         </div>
-                                        <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"  data-aos-delay="1400" data-aos-duration="1400">
+                                        <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
+                                            data-aos-delay="1400" data-aos-duration="1400">
                                             <a href="#register-now" class="btn">Register now</a>
                                         </div>
                                         <!-- </div> -->
@@ -265,7 +273,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="media" data-aos="fade-left" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500">
+                        <div class="media" data-aos="fade-left" data-aos-easing="linear" data-aos-delay="500"
+                            data-aos-duration="500">
                             <img src="./images/banner-img.png" alt="">
                             <div class="shapes"></div>
                             <div class="barcode">
@@ -273,8 +282,8 @@
                             </div>
                         </div>
                         <!-- <div class="mousewheel scroll-nextsec dis-md">
-                            <img src="./images/mouse-wheel.svg" alt="">
-                        </div> -->
+                        <img src="./images/mouse-wheel.svg" alt="">
+                    </div> -->
                     </div>
                 </div>
             </div>
@@ -283,7 +292,8 @@
         <section class="section section-eventregister-details">
             <div class="join-circle">
                 <img src="./images/join-circle.svg" alt="">
-                <div class="hero-date dis-md" data-aos="fade-left" data-aos-easing="linear"  data-aos-delay="800" data-aos-duration="800">
+                <div class="hero-date dis-md" data-aos="fade-left" data-aos-easing="linear" data-aos-delay="800"
+                    data-aos-duration="800">
                     <span>20</span>
                     <span>04</span>
                     <span>22</span>
@@ -292,53 +302,82 @@
             <div id="about" class="layout-container">
                 <div class="eventregister-details">
                     <div class="join-details">
-                        <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500">Join us on <strong>Wednesday 20 April 2022</strong> at 1pm to learn about effective digital
-                            marketing tips and tricks with <strong>Janice Tong</strong>, Acting Managing Director, Head
-                            of
-                            Strategic Partnerships and Sales for Bang.</p>
-                        <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="800" data-aos-duration="800">Google Search is an easy way to get your marketing message out there… but is it the most
-                            effective vehicle? Find out more about how to generate genuine interest and engagement,
-                            enhance
-                            your brand’s footprint to deliver a good ROI.</p>
-                        <div class="eventregister-details-list">
-                            <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1000" data-aos-duration="1000">Key areas of discussion will include</p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
+                            There is no doubt digital marketing strategy plays a critical role when it comes to the
+                            success of any business.
+                            When implemented in the right way,
+                            it will enable your business to engage with customers, connect with new ones, and experience
+                            consistent lasting growth.
+                            It defines how you differentiate from the competition.</p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="800">
+                            Join <strong>Janice Tong</strong>, Acting Managing Director, Head of Strategic Partnerships
+                            and Sales for Bang as she shares tips and tricks on
+                            how you can generate genuine interest and engagement and enhance your brand’s footprint to
+                            deliver a good ROI. </p>
+                        <!-- <div class="eventregister-details-list">
+                            <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
+                                data-aos-duration="1000">Key areas of discussion will include</p>
                             <ul class="list">
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1100" data-aos-duration="1100">Description 1 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1200" data-aos-duration="1200">Description 2 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1300" data-aos-duration="1300">Description 3 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1400" data-aos-duration="1400">Description 4 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1500" data-aos-duration="1500">Description 5 goes here</li>
+                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
+                                    data-aos-duration="1100">Description 1 goes here</li>
+                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
+                                    data-aos-duration="1200">Description 2 goes here</li>
+                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1300"
+                                    data-aos-duration="1300">Description 3 goes here</li>
+                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1400"
+                                    data-aos-duration="1400">Description 4 goes here</li>
+                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1500"
+                                    data-aos-duration="1500">Description 5 goes here</li>
                             </ul>
-                        </div>
-                        <a data-aos="zoom-in" data-aos-easing="linear"  data-aos-delay="1500" data-aos-duration="1500" href="#register-now" class="btn">Register now</a>
+                        </div> -->
+                        <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
+                            href="#register-now" class="btn">Register now</a>
                     </div>
                     <div class="title-divider"></div>
                     <div class="who-should-attend">
-                        <div class="title" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500">
+                        <div class="title" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500"
+                            data-aos-duration="500">
                             <h3>Who should attend?</h3>
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="600" data-aos-duration="600">This webinar is primarily designed to benefit businesses whose
-                                    headcount is between 1 and 500 employees and from the
-                                    following business types:</p>
+                                <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="600"
+                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in
+                                    the B2B space with a headcount of 1 - 200.
+                                    Attendees need not have previous marketing experience but require marketing know-how
+                                    as a function of their role.</p>
                                 <ul class="list">
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="700" data-aos-duration="700" >Description 1 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="800" data-aos-duration="800">Description 2 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="900" data-aos-duration="900">Description 3 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1000" data-aos-duration="1000">Description 4 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1100" data-aos-duration="1100">Description 5 goes here</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
+                                        data-aos-duration="700">Brand marketers.</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800"
+                                        data-aos-duration="800">Brand managers. </li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
+                                        data-aos-duration="900">Channel Partners who require marketing knowledge as a
+                                        function.</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
+                                        data-aos-duration="1000">Business leaders who require marketing knowledge as a
+                                        function.</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
+                                        data-aos-duration="1100">B2B professionals who work within the marketing/digital
+                                        marketing space. </li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
-                                <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="600" data-aos-duration="600">Attendees should have an interest in the following product/solution/topic types: </p>
+                                <!-- <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="600"
+                                    data-aos-duration="600">Attendees should have an interest in the following
+                                    product/solution/topic types: </p>
                                 <ul class="list">
-                                <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="700" data-aos-duration="700" >Description 1 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="800" data-aos-duration="800">Description 2 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="900" data-aos-duration="900">Description 3 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1000" data-aos-duration="1000">Description 4 goes here</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1100" data-aos-duration="1100">Description 5 goes here</li>
-                                </ul>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
+                                        data-aos-duration="700">Description 1 goes here</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800"
+                                        data-aos-duration="800">Description 2 goes here</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
+                                        data-aos-duration="900">Description 3 goes here</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
+                                        data-aos-duration="1000">Description 4 goes here</li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
+                                        data-aos-duration="1100">Description 5 goes here</li>
+                                </ul> -->
                             </div>
                         </div>
                     </div>
@@ -373,79 +412,38 @@
                                         </div>
                                         <div class="text">
                                             <h5>Janice Tong</h5>
-                                            <h6>Acting Managing Director,<br> Head of Strategic Partnerships &amp; Sales
+                                            <h6>Acting Managing Director,<br> Head of Strategic Partnerships &amp;
+                                                Sales
                                             </h6>
-                                            <p>Fugia consenis eatur, qui offici dollorit, quam cus. Nam, que dolorep
-                                                restrum,
-                                                conserum sundeles doluptiistio con nim nos sapel everepr atectis nit
-                                                voloris
-                                                nuscit, omnihite verovitatum consenimus utatia iur moditi nis molupta
-                                                tiuntint et eationsenda del ma que pre voloratiusa doluptatem et
-                                                peratquodit
-                                                quibusam int.</p>
+                                            <p>With 23+ years in publishing and media, Janice is a strong strategist who
+                                                has built and
+                                                grown commercially successful brands. With extensive experience in
+                                                sales, strategy,
+                                                content marketing and publishing, Janice champions strong execution,
+                                                customer
+                                                success and profitability for the business. In her role at Bang, she is
+                                                bringing her
+                                                accumulated skills to hand to drive and strengthen RevOps within the
+                                                NEXTGEN Group;
+                                                and has continued to deepen relationships within the B2B enterprise and
+                                                channel IT
+                                                landscape by providing innovative solutions that lead a changing media
+                                                landscape.</p><br>
+                                            <p>Key Specialties: Driving commercial success; strategy and planning;
+                                                content and
+                                                digital marketing; brand engagement; leading innovation and agility in
+                                                change and
+                                                business management; sales negotiation; establishing strong client
+                                                relationships; and
+                                                development of new programs strategies across a full suite of B2B / B2C
+                                                solutions
+                                                including data, media, services and events.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="speakers-item">
-                                <div class="layout-container">
-                                    <div class="inner">
-                                        <div class="media">
-                                            <div class="profile">
-                                                <img src="./images/speakers-1.png" alt="">
-                                            </div>
-                                            <div class="circ">
-                                                <img src="./images/speakers-circ.svg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h5>Janice Tong</h5>
-                                            <h6>Acting Managing Director,<br> Head of Strategic Partnerships &amp; Sales
-                                            </h6>
-                                            <p>Fugia consenis eatur, qui offici dollorit, quam cus. Nam, que dolorep
-                                                restrum,
-                                                conserum sundeles doluptiistio con nim nos sapel everepr atectis nit
-                                                voloris
-                                                nuscit, omnihite verovitatum consenimus utatia iur moditi nis molupta
-                                                tiuntint et eationsenda del ma que pre voloratiusa doluptatem et
-                                                peratquodit
-                                                quibusam int.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="speakers-item">
-                                <div class="layout-container">
-                                    <div class="inner">
-                                        <div class="media">
-                                            <div class="profile">
-                                                <img src="./images/speakers-1.png" alt="">
-                                            </div>
-                                            <div class="circ">
-                                                <img src="./images/speakers-circ.svg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="text">
-                                            <h5>Janice Tong</h5>
-                                            <h6>Acting Managing Director,<br> Head of Strategic Partnerships &amp; Sales
-                                            </h6>
-                                            <p>Fugia consenis eatur, qui offici dollorit, quam cus. Nam, que dolorep
-                                                restrum,
-                                                conserum sundeles doluptiistio con nim nos sapel everepr atectis nit
-                                                voloris
-                                                nuscit, omnihite verovitatum consenimus utatia iur moditi nis molupta
-                                                tiuntint et eationsenda del ma que pre voloratiusa doluptatem et
-                                                peratquodit
-                                                quibusam int.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -468,17 +466,171 @@
                                 </tr>
                             </thead>
                             <tbody>
+
                                 <tr>
                                     <td>
                                         <p>
-                                            <strong>20th April 2022</strong>
+                                            <strong>18th April 2022</strong>
                                             <span>Wednesday</span>
                                             <span>1pm - 1:30pm AEST</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks:</small>
+                                            <small>How to Come Up with<br> Great Brand Identities</small>
+                                            Digital Marketing +
+                                            <span class="font-weight-light">with Janice Tong, Acting Managing
+                                                Director,
+                                                Head of Strategic Partnerships and Sales</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>Google Search is an easy way to get your marketing message out there…
+                                            but is it the most effective vehicle? Find out more about how to
+                                            generate
+                                            genuine interest and engagement, enhance your brand’s footprint to
+                                            deliver a good ROI.</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>18th May 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>How to Come Up with<br> Great Brand Identities</small>
+                                            Digital Marketing +
+                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>Bang has helped many companies put their best foot forward. This
+                                            session will showcase some case studies of successful brand identities
+                                            and our strategies behind creating a strong brand.</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>15th June 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>Tips and Tricks:<br> eDM Best Practice</small>
+                                            Digital Marketing +
+                                            <span class="font-weight-light">with Julie Growcott, Head of Client
+                                                Services</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>eDM is a tried and trusted way to deliver your marketing message. But many
+                                            emails
+                                            land in a person’s inbox every day. How do you make your message stand out
+                                            from
+                                            the crowd? In this session, Bang will show you some simple tips to apply
+                                            when building
+                                            an eDM and also pitfalls to avoid.</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>20th July 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>The Value of <br> Intent-based Marketing</small>
+                                            Digital Marketing +
+                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
+                                                Head of Strategic Partnerships and Sales</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>All marketers understand the importance of generating leads and the
+                                            role it plays for business growth, but what does ‘intent-based’ marketing
+                                            actually entail? What are the core aspects to building out a successful
+                                            solution to deliver to this key outcome? And importantly, how do you
+                                            build on what you already have from lessons that can can be learnt from
+                                            your past campaigns?</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>17th August 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>Tips and Tricks: <br> The High Return </small>
+                                            Digital Marketing
+                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>One of Bang’s key values to market is about ‘human’ connectivity. Direct
+                                            Mail offers a tangible marketing solution that creates brand awareness,
+                                            engagement and stickiness. This session will show you ways to be
+                                            creative and create memorable high impact campaigns that’s sure to cut
+                                            through the noise.</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>21st September 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>Key Considerations <br> for Effective Marketing</small>
+                                            Digital Marketing +
+                                            <span class="font-weight-light">with Julie Growcott, Head of Client
+                                                Services</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>This is a foundations session for those interested driving brand
+                                            awareness and brand engagement, but don’t know where to start, or
+                                            don’t have a marketing department. The trial and error method doesn’t
+                                            need to be your experience - let us guide you through some of the key
+                                            considerations to ensure you’re delivering to some of the most common
+                                            marketing objectives: Thought-leadership positioning, brand awareness,
+                                            demand generation, social, performance marketing, intent-based
+                                            marketing.</p>
+                                        <a href="#" class="btn-read app-md">Read more</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <strong>19th October 2022</strong>
+                                            <span>Wednesday</span>
+                                            <span>1pm - 1:30pm AEST</span>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>
+                                            <small>Tips and Tricks:<br> Digital Marketing +</small>
                                             Digital Marketing +
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
@@ -495,7 +647,7 @@
                                 <tr>
                                     <td>
                                         <p>
-                                            <strong>18th April 2022</strong>
+                                            <strong>16th November 2022</strong>
                                             <span>Wednesday</span>
                                             <span>1pm - 1:30pm AEST</span>
                                         </p>
@@ -503,184 +655,40 @@
                                     <td>
                                         <p>
                                             <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
+
+                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
                                     <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
+                                        <p>Bang has helped many companies put their best foot forward. This
+                                            session will showcase some case studies of successful brand identities
+                                            and our strategies behind creating a strong brand.</p>
                                         <a href="#" class="btn-read app-md">Read more</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
                                         <p>
-                                            <strong>18th April 2022</strong>
+                                            <strong>21st December 2022</strong>
                                             <span>Wednesday</span>
                                             <span>1pm - 1:30pm AEST</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
+                                            <small>The Value of <br> Intent-based Marketing</small>
+
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
                                     </td>
                                     <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
-                                        <a href="#" class="btn-read app-md">Read more</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p>
-                                            <strong>18th April 2022</strong>
-                                            <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
-                                                Head of Strategic Partnerships and Sales</span>
-                                        </p>
-                                    </td>
-                                    <td>
-                                        <p>Google Search is an easy way to get your marketing message out there…
-                                            but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
-                                            deliver a good ROI.</p>
+                                        <p>All marketers understand the importance of generating leads and the
+                                            role it plays for business growth, but what does ‘intent-based’ marketing
+                                            actually entail? What are the core aspects to building out a successful
+                                            solution to deliver to this key outcome? And importantly, how do you
+                                            build on what you already have from lessons that can can be learnt from
+                                            your past campaigns?</p>
                                         <a href="#" class="btn-read app-md">Read more</a>
                                     </td>
                                 </tr>
@@ -703,11 +711,13 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="logo" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500" >
+                            <div class="logo" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500"
+                                data-aos-duration="500">
                                 <img src="./images/logo.svg" alt="">
                             </div>
                             <div class="branding size-sm">
-                                <div class="branding-lunch" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="700" data-aos-duration="700" >
+                                <div class="branding-lunch" data-aos="fade-in" data-aos-easing="linear"
+                                    data-aos-delay="700" data-aos-duration="700">
                                     <svg id="Group_23" data-name="Group 23" xmlns="http://www.w3.org/2000/svg"
                                         width="562.793" height="121.844" viewBox="0 0 562.793 121.844">
                                         <path id="Path_24" data-name="Path 24"
@@ -731,7 +741,8 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <div class="branding-learn" data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1000" data-aos-duration="1000" >
+                                <div class="branding-learn" data-aos="fade-in" data-aos-easing="linear"
+                                    data-aos-delay="1000" data-aos-duration="1000">
                                     <svg id="Group_24" data-name="Group 24" xmlns="http://www.w3.org/2000/svg"
                                         width="527.982" height="117.725" viewBox="0 0 527.982 117.725">
                                         <path id="Path_25" data-name="Path 25"
@@ -743,9 +754,31 @@
                             <div class="title-divider app-md"></div>
                         </div>
                         <div class="col-lg-6">
-                            <h2 data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1200" data-aos-duration="1200" >Digital Marketing +</h2>
-                            <h5 data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1400" data-aos-duration="1400" ><strong>Wednesday 20th April 2022</strong> 1pm - 1:30pm AEST</h5>
-                            <a data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1600" data-aos-duration="1600"  href="#register-now" class="btn btn-lg">Register now</a>
+                            <!-- <h2 data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
+                                data-aos-duration="1200">Digital Marketing +</h2>
+                            <h5 data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1400"
+                                data-aos-duration="1400"><strong>Wednesday 20th April 2022</strong> 1pm - 1:30pm
+                                AEST</h5>
+                            <a data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1600"
+                                data-aos-duration="1600" href="#register-now" class="btn btn-lg">Register now</a> -->
+                            <div class="text-events">
+                                <!-- <div class="text-events-content"> -->
+                                <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
+                                    data-aos-duration="900">
+                                    <h2>Digital Marketing +</h2>
+                                </div>
+                                <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
+                                    data-aos-duration="1200">
+                                    <h4 class="day">Wednesday 20th April 2022</h4>
+                                    <h4 class="hour">1pm - 1:30pm AEST</h4>
+                                    <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                </div>
+                                <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
+                                    data-aos-delay="1400" data-aos-duration="1400">
+                                    <a href="#register-now" class="btn">Register now</a>
+                                </div>
+                                <!-- </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -760,13 +793,11 @@
                             <div class="layout-container">
                                 <div class="text-inner">
                                     <div class="chattous-content">
-                                        <h3>Chat to us</h3>
-                                        <p>Have a question about our Lunch and Learn Series? Or want to leverage your
-                                            business
-                                            with
-                                            our
-                                            expertise? Contact us and we will be in touch in no time!</p>
-                                        <form action="">
+                                        <h3>Let’s chat!</h3>
+                                        <p>Have a question about our Lunch and Learn series? Or want to speak with us
+                                            on how Bang can help your business or brand take off? Contact us and we
+                                            will be in touch within 24 hours.</p>
+                                        <!-- <form action="">
                                             <div class="formfield">
                                                 <input type="text" placeholder="Full name">
                                             </div>
@@ -780,7 +811,9 @@
                                                 <input type="email" placeholder="Email">
                                             </div>
                                             <button type="submit" class="btn">Submit</button>
-                                        </form>
+                                        </form> -->
+                                        <a href="mailto:info@bang.com.au?subject=Lunch and Learn Enquiry"> <button class="btn">Contact us!</button></a>
+
                                     </div>
                                 </div>
                             </div>
@@ -819,6 +852,9 @@
                 </div>
                 <div class="copyright">
                     <p>© 2022 Bang A Nextgen Company. All rights reserved.</p>
+                    <p class="term">NEXTGEN Group reserves the right to limit attendance to registrations that meet the
+                        attendee criteria <br>and refuse attendance by anyone from competing vendor, distributor or
+                        service organisations.</p>
                 </div>
             </div>
         </div>
@@ -829,7 +865,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
         integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js" crossorigin="anonymous"></script>
     <script src="js/app.js"></script>
 </body>
 

@@ -137,7 +137,7 @@
                         border-radius: 50%;
                         min-width: 1px;
                         padding: 0;
-                        opacity: 1;
+                        opacity: 0;
                     }
 
                     &.slick-active {
@@ -217,6 +217,7 @@
 
             p {
                 margin-bottom: 0;
+                font-size: 1.6rem;
             }
         }
     }

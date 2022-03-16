@@ -38,7 +38,7 @@
         width: 841px;
 
         @media (max-width: 991px) {
-            width: 367px;
+            width: 443px;
         }
 
         img {
@@ -70,6 +70,11 @@
             @media (max-width: 991px) {
                 font-size: 14px;
             }
+        }
+
+        .term {
+            font-size: 1.3rem;
+            line-height: 1.2;
         }
     }
 }

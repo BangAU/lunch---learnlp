@@ -14,6 +14,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // sidenav toggle
     sideNav()
 
+    // scroll to next section
+    scrollNextSection()
+
     // speakers slider
     speakersSlider()
 
@@ -23,12 +26,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // table wrap
     tableLoadmore()
 
-    // scroll to next section
-    scrollNextSection()
-
     // upcoming table
     upcomingTableReadMore()
-
+    
     smooth_scroll()
 });
 
@@ -37,11 +37,9 @@ win.on('resize', function () {});
 
 
 /*****  Declare your functions here  ********/
-
 AOS.init({
     once: true,
 });
-
 
 function scrollDownSection() {
     $('.scrolldown-arrow').click(function () {
@@ -53,11 +51,37 @@ function headerScroll() {
     const header = $('.header');
 
     $(window).scroll(function () {
-        if ($(window).scrollTop() > 100) {
-            header.addClass('header-sticky');
+        headerscrollTop(header)
+    })
+    headerscrollTop(header)
+}
+
+function headerscrollTop(header) {
+    if ($(window).scrollTop() > 100) {
+        header.addClass('header-sticky');
+    } else {
+        header.removeClass('header-sticky')
+    }
+}
+
+function sideNav() {
+    const btnTrigger = $('.btn-sidenav'),
+        sideNavWrap = $('.sidenav-wrap'),
+        sideNavBackdrop = sideNavWrap.find('.sidenav-backdrop');
+
+    btnTrigger.click(function () {
+        if (sideNavWrap.hasClass('active')) {
+            sideNavWrap.removeClass('active');
+            $('html').css('overflowY', '');
         } else {
-            header.removeClass('header-sticky')
+            sideNavWrap.addClass('active');
+            $('html').css('overflowY', 'hidden');
         }
+    })
+
+    sideNavBackdrop.click(function () {
+        sideNavWrap.removeClass('active');
+        $('html').css('overflowY', '');
     })
 }
 
@@ -68,6 +92,22 @@ function speakersSlider() {
         speed: 300,
         slidesToShow: 1,
         slidesToScroll: 1,
+    });
+}
+
+function scrollNextSection() {
+    $(".scroll-nextsec").click(function (event) {
+        const parentSection = $(this).parents('.section'),
+            nextSection = parentSection.next();
+
+        $('html, body')
+            .stop()
+            .animate({
+                    scrollTop: nextSection.offset().top - $('.header').height(),
+                },
+                1000
+            );
+        event.preventDefault();
     });
 }
 
@@ -94,9 +134,9 @@ function tableLoadmore() {
         insideText = loadBtn.find('span');
 
     loadBtn.click(function () {
-        console.log(currentHeight)
-        console.log(tableObj)
-        console.log(tableObjHeight)
+        // console.log(currentHeight)
+        // console.log(tableObj)
+        // console.log(tableObjHeight)
 
         if (tableWrap.hasClass('loaded')) {
             tableWrap.removeClass('loaded');
@@ -110,47 +150,12 @@ function tableLoadmore() {
             tableWrap.animate({
                 height: (tableObjHeight + 160)
             }, 500)
+            setTimeout(function () {
+                tableWrap.css({
+                    height: 'auto'
+                })
+            }, 750);
         }
-    })
-}
-
-function scrollNextSection() {
-    $(".scroll-nextsec").click(function (event) {
-        const parentSection = $(this).parents('.section'),
-            nextSection = parentSection.next();
-
-        $('html, body')
-            .stop()
-            .animate({
-                    scrollTop: nextSection.offset().top - $('.header').height(),
-                },
-                1000
-            );
-        event.preventDefault();
-    });
-}
-
-function sideNav() {
-    const btnTrigger = $('.btn-sidenav'),
-        sideNav = $('.sidenav'),
-        sideNavBackdrop = $('.sidenav-backdrop');
-
-    btnTrigger.click(function () {
-        if (sideNav.hasClass('active')) {
-            sideNavBackdrop.fadeOut()
-            sideNav.removeClass('active');
-            $('html').css('overflowY', '');
-        } else {
-            sideNavBackdrop.fadeIn()
-            sideNav.addClass('active');
-            $('html').css('overflowY', 'hidden');
-        }
-    })
-
-    sideNavBackdrop.click(function () {
-        sideNavBackdrop.fadeOut()
-        sideNav.removeClass('active');
-        $('html').css('overflowY', '');
     })
 }
 

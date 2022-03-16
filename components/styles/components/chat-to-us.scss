@@ -1,7 +1,7 @@
 $chat-img: 393.5px;
 
 .section-chattous {
-    padding: 133px 0 104px;
+    padding: 200px 0 104px;
 
     @media (max-width: 991px) {
         padding: 62px 0;
@@ -62,6 +62,7 @@ $chat-img: 393.5px;
         height: 579.5px;
         padding-left: 15px;
         margin-left: auto;
+
         @media (min-width: 992px) {
             position: absolute;
             top: 50%;
@@ -82,7 +83,7 @@ $chat-img: 393.5px;
         .barcode {
             left: 0;
             width: 15px;
-            height: 127px;
+            height: 217px;
 
             img {
                 @include imgfit;
@@ -106,7 +107,6 @@ $chat-img: 393.5px;
             video {
                 @include imgfit;
             }
-
         }
     }
 }

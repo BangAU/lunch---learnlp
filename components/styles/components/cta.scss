@@ -21,6 +21,10 @@
             width: 321.5px;
             height: 6.5px;
             background-color: $color-orange;
+
+            @media (max-width: 991px) {
+                left: -36px;
+            }
         }
     }
 
@@ -109,25 +113,41 @@
         }
     }
 
-    h2 {
-        margin-bottom: 9px;
+    .text-events {
+        .location {
+            margin-bottom: 9px;
 
-        @media (max-width: 991px) {
-            font-size: 35px;
-        }
-    }
+            h2 {
+                margin-bottom: 0;
 
-    h5 {
-        margin-bottom: 24px;
-
-        @media (max-width: 991px) {
-            font-size: 21px;
-            font-weight: 300;
+                @media (max-width: 991px) {
+                    font-size: 35px;
+                }
+            }
         }
 
-        strong {
-            display: block;
-            font-weight: 500;
+        .time {
+            .day,
+            .hour {
+                font-size: 28px;
+                line-height: 35px;
+
+                @media (max-width: 991px) {
+                    font-size: 21px;
+                }
+            }
+
+            .day {
+                margin-bottom: 0;
+            }
+
+            .hour {
+                margin-bottom: 3px;
+            }
+        }
+
+        &-btn {
+            margin-left: 0;
         }
     }
 }

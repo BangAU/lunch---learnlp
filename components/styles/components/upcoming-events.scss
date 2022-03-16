@@ -37,11 +37,19 @@
                 left: 0;
                 width: 100%;
                 height: 300px;
-                background: linear-gradient(to top, #fff 50%, transparent);
+                background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTQ0MCIgaGVpZ2h0PSIxMjA4IiB2aWV3Qm94PSIwIDAgMTQ0MCAxMjA4Ij4NCiAgPGRlZnM+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIwLjUiIHgyPSIwLjUiIHkyPSIwLjM2NSIgZ3JhZGllbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZiIvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogIDwvZGVmcz4NCiAgPGcgaWQ9Ikdyb3VwXzEyOSIgZGF0YS1uYW1lPSJHcm91cCAxMjkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTMzMTEpIj4NCiAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlXzc1IiBkYXRhLW5hbWU9IlJlY3RhbmdsZSA3NSIgd2lkdGg9IjE0NDAiIGhlaWdodD0iNjY2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMzMTEpIiBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudCkiLz4NCiAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlXzc2IiBkYXRhLW5hbWU9IlJlY3RhbmdsZSA3NiIgd2lkdGg9IjE0NDAiIGhlaWdodD0iNzgxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDM3MzgpIiBmaWxsPSIjZmZmIi8+DQogIDwvZz4NCjwvc3ZnPg0K");
+                background-position: top;
+                background-size: cover;
+                background-repeat: no-repeat;
                 transition: all .3s ease-out;
+                transition-delay: .3s;
 
                 @media (max-width: 991px) {
-                    height: 180px;
+                    height: 220px;
+                }
+
+                @media (max-width: 567px) {
+                    height: 110px;
                 }
             }
 
@@ -103,8 +111,12 @@
             &.loaded {
                 padding-bottom: 160px;
 
+                @media (max-width: 991px) {
+                    padding-bottom: 80px;
+                }
+
                 &::before {
-                    height: 100px;
+                    height: 0;
                 }
 
                 .load-more {
