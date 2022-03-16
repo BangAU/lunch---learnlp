@@ -28,6 +28,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // upcoming table
     upcomingTableReadMore()
+
+    smooth_scroll()
 });
 
 //function called on window resize
@@ -167,4 +169,13 @@ function upcomingTableReadMore() {
             $(this).text('read less');
         }
     })
+}
+
+//smooth scroll JS
+function smooth_scroll(){
+    $(".navigation a, .navigation ~ a, .sidenav-list a").on("click", function (e) {
+        e.preventDefault();
+        const href = $(this).attr("href");
+        $("html, body").animate({ scrollTop: $(href).offset().top }, 800);
+    });
 }

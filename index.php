@@ -143,12 +143,12 @@
                 </div>
                 <nav class="navigation dis-md">
                     <ul class="nav-list">
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Speakers</a></li>
-                        <li><a href="#">Events</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#speakers">Speakers</a></li>
+                        <li><a href="#events">Events</a></li>
                     </ul>
                 </nav>
-                <a href="#" class="btn dis-md">Register now</a>
+                <a href="#register-now" class="btn dis-md">Register now</a>
                 <button class="btn-sidenav app-md">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18">
                         <g id="Group_156" data-name="Group 156" transform="translate(-317.5 -34.5)">
@@ -175,9 +175,9 @@
             </button>
         </div>
         <ul class="nav-list sidenav-list">
-            <li><a href="#">About</a></li>
-            <li><a href="#">Speakers</a></li>
-            <li><a href="#">Events</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#speakers">Speakers</a></li>
+            <li><a href="#events">Events</a></li>
         </ul>
     </div>
 
@@ -241,7 +241,7 @@
                                             <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"  data-aos-delay="1400" data-aos-duration="1400">
-                                            <a href="#" class="btn">Register now</a>
+                                            <a href="#register-now" class="btn">Register now</a>
                                         </div>
                                         <!-- </div> -->
                                     </div>
@@ -289,7 +289,7 @@
                     <span>22</span>
                 </div>
             </div>
-            <div class="layout-container">
+            <div id="about" class="layout-container">
                 <div class="eventregister-details">
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="500" data-aos-duration="500">Join us on <strong>Wednesday 20 April 2022</strong> at 1pm to learn about effective digital
@@ -310,7 +310,7 @@
                                 <li data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1500" data-aos-duration="1500">Description 5 goes here</li>
                             </ul>
                         </div>
-                        <a data-aos="zoom-in" data-aos-easing="linear"  data-aos-delay="1500" data-aos-duration="1500" href="#" class="btn">Register now</a>
+                        <a data-aos="zoom-in" data-aos-easing="linear"  data-aos-delay="1500" data-aos-duration="1500" href="#register-now" class="btn">Register now</a>
                     </div>
                     <div class="title-divider"></div>
                     <div class="who-should-attend">
@@ -346,7 +346,7 @@
             </div>
         </section>
 
-        <section class="section section-speakers">
+        <section id="speakers" class="section section-speakers">
             <div class="shapes">
             </div>
             <div class="barcode">
@@ -451,7 +451,7 @@
             </div>
         </section>
 
-        <section class="section section-upcoming-events">
+        <section id="events" class="section section-upcoming-events">
             <div class="layout-container">
                 <div class="upcoming-events">
                     <h3>Upcoming Events</h3>
@@ -745,14 +745,14 @@
                         <div class="col-lg-6">
                             <h2 data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1200" data-aos-duration="1200" >Digital Marketing +</h2>
                             <h5 data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1400" data-aos-duration="1400" ><strong>Wednesday 20th April 2022</strong> 1pm - 1:30pm AEST</h5>
-                            <a data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1600" data-aos-duration="1600"  href="#" class="btn btn-lg">Register now</a>
+                            <a data-aos="fade-in" data-aos-easing="linear"  data-aos-delay="1600" data-aos-duration="1600"  href="#register-now" class="btn btn-lg">Register now</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="section section-chattous">
+        <section id="register-now" class="section section-chattous">
             <div class="layout-container">
                 <div class="chattous">
                     <div class="inner">
