@@ -7,7 +7,7 @@ $chat-img: 393.5px;
         padding: 62px 0;
     }
 
-    >.layout-container {
+    > .layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -20,6 +20,7 @@ $chat-img: 393.5px;
         align-items: center;
         flex-wrap: wrap;
         max-width: 1440px;
+
         @include margin-auto;
 
         .text-inner {
@@ -32,6 +33,7 @@ $chat-img: 393.5px;
 
             @media (max-width: 991px) {
                 max-width: 100%;
+
                 @include margin-auto;
             }
         }
@@ -60,7 +62,6 @@ $chat-img: 393.5px;
         height: 579.5px;
         padding-left: 15px;
         margin-left: auto;
-
         @media (min-width: 992px) {
             position: absolute;
             top: 50%;
@@ -105,6 +106,7 @@ $chat-img: 393.5px;
             video {
                 @include imgfit;
             }
+
         }
     }
 }

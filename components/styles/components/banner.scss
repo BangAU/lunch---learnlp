@@ -5,7 +5,7 @@ $banner-img: 516px;
     background-color: $color-green;
     padding: 176px 0 0;
 
-    >.layout-container {
+    > .layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -22,12 +22,14 @@ $banner-img: 516px;
         width: 100%;
         position: relative;
         max-width: 1440px;
+
         @include margin-auto;
 
         @media (max-width: 991px) {
             display: flex;
-            flex-wrap: wrap;
             flex-flow: column;
+            flex-wrap: wrap;
+
         }
     }
 
@@ -51,6 +53,7 @@ $banner-img: 516px;
 
             @media (max-width: 991px) {
                 max-width: 315px;
+
                 @include margin-auto;
             }
         }

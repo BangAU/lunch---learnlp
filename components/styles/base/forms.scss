@@ -40,6 +40,7 @@ input[type="email"] {
         line-height: 40px;
     }
 
+
     &:focus {
         outline: none;
     }
@@ -56,7 +57,7 @@ input:not([type="submit"]) {
     font-family: $font-title;
     border: 1px solid $color-black;
     font-size: 18px;
-    letter-spacing: 0.72px;
+    letter-spacing: .72px;
 
     &::placeholder {
         opacity: 1;
