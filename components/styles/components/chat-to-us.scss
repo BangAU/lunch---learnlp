@@ -37,6 +37,9 @@ $chat-img: 393.5px;
                 @include margin-auto;
             }
         }
+        a {
+            text-decoration: none;
+        }
     }
 
     p {
