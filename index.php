@@ -478,7 +478,6 @@
                                     <td>
                                         <p>
                                             <small>Tips and Tricks: <br> Digital Marketing +</small>
-                                            Digital Marketing +
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director, 
                                             Head of Strategic Partnerships and Sales</span>
                                         </p>
