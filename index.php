@@ -470,18 +470,17 @@
                                 <tr>
                                     <td>
                                         <p>
-                                            <strong>18th April 2022</strong>
+                                            <strong>20th April 2022</strong>
                                             <span>Wednesday</span>
                                             <span>1pm - 1:30pm AEST</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
+                                            <small>Tips and Tricks: <br> Digital Marketing +</small>
                                             Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing
-                                                Director,
-                                                Head of Strategic Partnerships and Sales</span>
+                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director, 
+                                            Head of Strategic Partnerships and Sales</span>
                                         </p>
                                     </td>
                                     <td>
@@ -504,7 +503,7 @@
                                     <td>
                                         <p>
                                             <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
+                                            
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
