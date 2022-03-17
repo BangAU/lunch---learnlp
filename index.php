@@ -576,8 +576,8 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks: <br> The High Return </small>
-                                            Digital Marketing
+                                            <small>Tips and Tricks: <br></small>
+                                            The High Return of <br/>Digital Marketing
                                             <span class="font-weight-light speaker">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
