@@ -33,22 +33,19 @@
             font-size: 46px;
             margin-bottom: 2px;
             line-height: normal;
+            display: inline;
 
             @media (max-width: 991px) {
                 font-size: 35px;
             }
         }
 
-        h4 {
+        span {
             font-size: 30px;
             font-weight: 300;
 
             @media (max-width: 991px) {
                 font-size: 28px;
-            }
-
-            span {
-                display: block;
             }
         }
     }

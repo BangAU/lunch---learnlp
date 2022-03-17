@@ -238,8 +238,8 @@
                                         <!-- <div class="text-events-content"> -->
                                         <div class="location" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="900" data-aos-duration="900">
-                                            <h2>Digital Marketing+</h2>
-                                            <h4><span class="font-weight-light">GoToWebinar</span></h4>
+                                            <h2>Digital Marketing+ </h2>
+                                            <span class="font-weight-light">Webinar</span>
                                         </div>
                                         <div class="time" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="1200" data-aos-duration="1200">
@@ -470,16 +470,16 @@
                                 <tr>
                                     <td>
                                         <p>
-                                            <strong>18th April 2022</strong>
+                                            <strong>20th April 2022</strong>
                                             <span>Wednesday</span>
                                             <span>1pm - 1:30pm AEST</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing
+                                            <small>Tips and Tricks:</small>
+                                            Digital Marketing+
+                                            <span class="font-weight-light speaker">with Janice Tong, Acting Managing
                                                 Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
@@ -503,9 +503,8 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
+                                            How to Come Up with<br> Great Brand Identities
+                                            <span class="font-weight-light speaker">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
                                     <td>
@@ -525,16 +524,16 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks:<br> eDM Best Practice</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Julie Growcott, Head of Client
+                                            <small>Tips and Tricks:<br></small>
+                                            eDM Best Practice
+                                            <span class="font-weight-light speaker">with Julie Growcott, Head of Client
                                                 Services</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>eDM is a tried and trusted way to deliver your marketing message. But many
                                             emails
-                                            land in a person’s inbox every day. How do you make your message stand out
+                                            land in a person's inbox every day. How do you make your message stand out
                                             from
                                             the crowd? In this session, Bang will show you some simple tips to apply
                                             when building
@@ -552,15 +551,14 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>The Value of <br> Intent-based Marketing</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
+                                            The Value of <br> Intent-based Marketing
+                                            <span class="font-weight-light speaker">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>All marketers understand the importance of generating leads and the
-                                            role it plays for business growth, but what does ‘intent-based’ marketing
+                                            role it plays for business growth, but what does 'intent-based' marketing
                                             actually entail? What are the core aspects to building out a successful
                                             solution to deliver to this key outcome? And importantly, how do you
                                             build on what you already have from lessons that can can be learnt from
@@ -580,11 +578,11 @@
                                         <p>
                                             <small>Tips and Tricks: <br> The High Return </small>
                                             Digital Marketing
-                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
+                                            <span class="font-weight-light speaker">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
                                     <td>
-                                        <p>One of Bang’s key values to market is about ‘human’ connectivity. Direct
+                                        <p>One of Bang's key values to market is about ‘human’ connectivity. Direct
                                             Mail offers a tangible marketing solution that creates brand awareness,
                                             engagement and stickiness. This session will show you ways to be
                                             creative and create memorable high impact campaigns that’s sure to cut
@@ -602,18 +600,17 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Key Considerations <br> for Effective Marketing</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Julie Growcott, Head of Client
+                                            Key Considerations <br> for Effective Marketing
+                                            <span class="font-weight-light speaker">with Julie Growcott, Head of Client
                                                 Services</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>This is a foundations session for those interested driving brand
-                                            awareness and brand engagement, but don’t know where to start, or
-                                            don’t have a marketing department. The trial and error method doesn’t
+                                            awareness and brand engagement, but don't know where to start, or
+                                            don't have a marketing department. The trial and error method doesn’t
                                             need to be your experience - let us guide you through some of the key
-                                            considerations to ensure you’re delivering to some of the most common
+                                            considerations to ensure you're delivering to some of the most common
                                             marketing objectives: Thought-leadership positioning, brand awareness,
                                             demand generation, social, performance marketing, intent-based
                                             marketing.</p>
@@ -630,16 +627,16 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks:<br> Digital Marketing +</small>
-                                            Digital Marketing +
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
+                                            <small>Tips and Tricks:<br></small>
+                                            Digital Marketing+
+                                            <span class="font-weight-light speaker">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
                                     </td>
                                     <td>
                                         <p>Google Search is an easy way to get your marketing message out there…
                                             but is it the most effective vehicle? Find out more about how to generate
-                                            genuine interest and engagement, enhance your brand’s footprint to
+                                            genuine interest and engagement, enhance your brand's footprint to
                                             deliver a good ROI.</p>
                                         <a href="#" class="btn-read app-md">Read more</a>
                                     </td>
@@ -654,9 +651,8 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-
-                                            <span class="font-weight-light">with Dylan Koh, Creative Director</span>
+                                            How to Come Up with<br> Great Brand Identities
+                                            <span class="font-weight-light speaker">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
                                     <td>
@@ -676,9 +672,9 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>The Value of <br> Intent-based Marketing</small>
+                                            The Value of <br> Intent-based Marketing
 
-                                            <span class="font-weight-light">with Janice Tong, Acting Managing Director,
+                                            <span class="font-weight-light speaker">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
                                     </td>
@@ -765,7 +761,7 @@
                                 <!-- <div class="text-events-content"> -->
                                 <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
                                     data-aos-duration="900">
-                                    <h2>Digital Marketing +</h2>
+                                    <h2>Digital Marketing+</h2>
                                 </div>
                                 <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
                                     data-aos-duration="1200">
