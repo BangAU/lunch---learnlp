@@ -178,9 +178,10 @@ function upcomingTableReadMore() {
 
 //smooth scroll JS
 function smooth_scroll(){
-    $(".navigation a, .navigation ~ a, .sidenav-list a,").on("click", function (e) {
+    $(".navigation a, .navigation ~ a, .sidenav-list a").on("click", function (e) {
         e.preventDefault();
         const href = $(this).attr("href");
-        $("html, body").animate({ scrollTop: $(href).offset().top }, 800);
+        console.log("hello");
+        $("html, body").animate({ scrollTop: $(href).offset().top -140 }, 800);
     });
 }
