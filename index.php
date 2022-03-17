@@ -15,7 +15,7 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/index.css">
 
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 </head>
 
 <body>
