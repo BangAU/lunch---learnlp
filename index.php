@@ -245,7 +245,7 @@
                                             data-aos-delay="1200" data-aos-duration="1200">
                                             <h4 class="day">Wednesday 20th April 2022</h4>
                                             <h4 class="hour">1pm - 1:30pm AEST</h4>
-                                            <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                            <p class="timeframe">11am - 11:30am SGT | 3pm - 3:30pm NZST</p>
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
@@ -763,7 +763,7 @@
                                     data-aos-duration="1200">
                                     <h4 class="day">Wednesday 20th April 2022</h4>
                                     <h4 class="hour">1pm - 1:30pm AEST</h4>
-                                    <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                    <p class="timeframe">11am - 11:30am SGT | 3pm - 3:30pm NZST</p>
                                 </div>
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
