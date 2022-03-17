@@ -178,7 +178,7 @@ function upcomingTableReadMore() {
 
 //smooth scroll JS
 function smooth_scroll(){
-    $(".navigation a, .navigation ~ a, .sidenav-list a").on("click", function (e) {
+    $(".nav-list a, .sidenav-list a").on("click", function (e) {
         e.preventDefault();
         const href = $(this).attr("href");
         console.log("hello");
