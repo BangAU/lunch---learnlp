@@ -427,17 +427,13 @@
                                                 NEXTGEN Group;
                                                 and has continued to deepen relationships within the B2B enterprise and
                                                 channel IT
-                                                landscape by providing innovative solutions that lead a changing media
-                                                landscape.</p><br>
+                                                landscape by providing innovative solutions that drive results and lead engagements in a changing media landscape.</p><br>
                                             <p>Key Specialties: Driving commercial success; strategy and planning;
                                                 content and
                                                 digital marketing; brand engagement; leading innovation and agility in
                                                 change and
                                                 business management; sales negotiation; establishing strong client
-                                                relationships; and
-                                                development of new programs strategies across a full suite of B2B / B2C
-                                                solutions
-                                                including data, media, services and events.</p>
+                                                relationships; and development of new program strategies across the full suite of B2B / B2C solutions, including data, media, content and events.</p>
                                         </div>
                                     </div>
                                 </div>
