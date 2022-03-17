@@ -148,7 +148,7 @@
                         <li><a href="#events">Events</a></li>
                     </ul>
                 </nav>
-                <a href="#register-now" class="btn dis-md">Register now</a>
+                <a target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791" class="btn dis-md">Register now</a>
                 <button class="btn-sidenav app-md">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18">
                         <g id="Group_156" data-name="Group 156" transform="translate(-317.5 -34.5)">
@@ -249,7 +249,7 @@
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
-                                            <a href="#register-now" class="btn">Register now</a>
+                                            <a target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791" class="btn">Register now</a>
                                         </div>
                                         <!-- </div> -->
                                     </div>
@@ -330,8 +330,8 @@
                                     data-aos-duration="1500">Description 5 goes here</li>
                             </ul>
                         </div> -->
-                        <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
-                            href="#register-now" class="btn">Register now</a>
+                        <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500" target="_blank"
+                            href="https://register.gotowebinar.com/register/6626731713591435791" class="btn">Register now</a>
                     </div>
                     <div class="title-divider"></div>
                     <div class="who-should-attend">
@@ -775,7 +775,7 @@
                                 </div>
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
-                                    <a href="#register-now" class="btn">Register now</a>
+                                    <a target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791" class="btn">Register now</a>
                                 </div>
                                 <!-- </div> -->
                             </div>
