@@ -239,7 +239,7 @@
                                         <div class="location" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="900" data-aos-duration="900">
                                             <h2>Digital Marketing+</h2>
-                                            <h4><span class="font-weight-light">GoToWebinar</span></h4>
+                                            <h4><span class="font-weight-light">Webinar</span></h4>
                                         </div>
                                         <div class="time" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="1200" data-aos-duration="1200">
