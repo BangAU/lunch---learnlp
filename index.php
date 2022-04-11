@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set Metatag for preview when sharing the link -->
+    <meta property='og:title' content="Register now"/>
+    <meta property='og:image' content="https://banglunchandlearn.com.au/images/linkedin-img.png"/>
     <title>Lunch and learn</title>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
