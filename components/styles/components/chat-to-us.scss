@@ -1,13 +1,13 @@
 $chat-img: 393.5px;
 
 .section-chattous {
-    padding: 200px 0 104px;
+    padding: 220px 0 104px;
 
     @media (max-width: 991px) {
         padding: 62px 0;
     }
 
-    > .layout-container {
+    >.layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -37,6 +37,7 @@ $chat-img: 393.5px;
                 @include margin-auto;
             }
         }
+
         a {
             text-decoration: none;
         }

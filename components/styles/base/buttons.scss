@@ -1,5 +1,4 @@
-.btn,
-button {
+.btn {
     font-family: $font-title;
     font-size: 22px;
     line-height: 26px;
@@ -29,63 +28,127 @@ button {
         background-color: transparent;
         text-decoration: none;
     }
-}
 
-.btn-lg {
-    min-width: 328px;
-    height: 102px;
-    border-radius: 60px;
-    font-size: 29px;
-    letter-spacing: .29px;
-    line-height: 38px;
+    &.w-icon {
+        justify-content: flex-start;
+        padding-left: 32px;
+        padding-right: 17px;
 
-    @media (max-width: 991px) {
-        min-width: 286px;
-        height: 89px;
-        font-size: 25px;
-        line-height: 29px;
-        letter-spacing: .25px;
+        .icon {
+            width: 41px;
+            margin-left: auto;
+
+            img,
+            svg {
+                width: 100%;
+                height: auto;
+                display: block;
+                transition: all .3s ease-out;
+            }
+        }
     }
-}
 
-.btn-sidenav {
-    width: 23px;
-    // height: 16px;
-    background-color: transparent;
-    padding: 0;
-    border: 0;
-    min-width: 1px;
-    height: auto;
-    cursor: pointer;
+    &-black {
+        color: #fff;
+        background-color: $color-black;
+        border-color: $color-black;
+        align-items: center;
 
-    svg {
-        width: 100%;
+        .icon {
+            img {
+                filter: brightness(0) invert(1);
+            }
+
+            svg path {
+                fill: #fff;
+            }
+        }
+
+        &:hover {
+            color: $color-black;
+            background-color: $color-orange;
+            border-color: $color-orange;
+
+            .icon img {
+                filter: none;
+            }
+        }
+    }
+
+    &-red {
+        color: $color-black;
+        background-color: $color-red;
+        border-color: $color-red;
+
+        &:hover {
+            color: #fff;
+            background-color: $color-black;
+            border-color: $color-black;
+
+            .icon {
+                img {
+                    filter: brightness(0) invert(1);
+                }
+            }
+        }
+    }
+
+    &-lg {
+        min-width: 328px;
+        height: 102px;
+        border-radius: 60px;
+        font-size: 29px;
+        letter-spacing: .29px;
+        line-height: 38px;
+
+        @media (max-width: 991px) {
+            min-width: 286px;
+            height: 89px;
+            font-size: 25px;
+            line-height: 29px;
+            letter-spacing: .25px;
+        }
+    }
+
+    &-sidenav {
+        width: 23px;
+        // height: 16px;
+        background-color: transparent;
+        padding: 0;
+        border: 0;
+        min-width: 1px;
         height: auto;
+        cursor: pointer;
+
+        svg {
+            width: 100%;
+            height: auto;
+        }
     }
-}
 
-.btn-read {
-    display: inline-flex;
-    font-size: 18px;
-    font-weight: 500;
-    text-transform: capitalize;
-    text-decoration: none;
-    cursor: pointer;
-    transition: all .3s ease-out;
-
-    &:hover {
-        color: $color-orange;
+    &-read {
+        display: inline-flex;
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: capitalize;
         text-decoration: none;
-    }
+        cursor: pointer;
+        transition: all .3s ease-out;
 
-    &::after {
-        content: "+";
-        margin-left: 5px;
-    }
+        &:hover {
+            color: $color-orange;
+            text-decoration: none;
+        }
 
-    &.less {
         &::after {
-            content: "-";
+            content: "+";
+            margin-left: 5px;
+        }
+
+        &.less {
+            &::after {
+                content: "-";
+            }
         }
     }
 }

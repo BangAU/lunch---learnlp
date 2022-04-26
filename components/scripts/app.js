@@ -90,6 +90,7 @@ function speakersSlider() {
         dots: true,
         infinite: false,
         speed: 300,
+        adaptiveHeight: true,
         slidesToShow: 1,
         slidesToScroll: 1,
     });
@@ -177,11 +178,13 @@ function upcomingTableReadMore() {
 }
 
 //smooth scroll JS
-function smooth_scroll(){
+function smooth_scroll() {
     $(".nav-list a, .sidenav-list a").on("click", function (e) {
         e.preventDefault();
         const href = $(this).attr("href");
         console.log("hello");
-        $("html, body").animate({ scrollTop: $(href).offset().top -140 }, 800);
+        $("html, body").animate({
+            scrollTop: $(href).offset().top - 140
+        }, 800);
     });
 }

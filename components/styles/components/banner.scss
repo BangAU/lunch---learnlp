@@ -5,7 +5,7 @@ $banner-img: 516px;
     background-color: $color-green;
     padding: 176px 0 0;
 
-    > .layout-container {
+    >.layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -179,6 +179,75 @@ $banner-img: 516px;
 
             @media (max-width: 991px) {
                 // display: none;
+            }
+        }
+    }
+}
+
+.theme {
+    &-black {
+        .banner {
+            .shapes {
+
+                &::before,
+                &::after {
+                    background-color: $color-green-light;
+                }
+            }
+        }
+    }
+
+    &-red {
+        .branding {
+
+            &-plus,
+            &-circ {
+                svg path {
+                    fill: $color-black;
+                }
+            }
+        }
+
+        .text {
+            .title-divider::before {
+                background-color: $color-black;
+            }
+        }
+
+        .text-events {
+            .time {
+                width: 100%;
+                color: $color-black;
+            }
+
+            &-btn {
+                margin-left: 0;
+            }
+        }
+    }
+}
+
+.image-full {
+    .banner {
+        .text {
+            position: relative;
+            z-index: 2;
+            padding-bottom: 88px;
+
+            @media (max-width: 991px) {
+                padding-bottom: 0;
+            }
+        }
+
+        .media {
+            width: auto;
+            right: -268px;
+            height: 754px;
+
+            @media (max-width: 991px) {
+                height: 588px;
+                right: 0;
+                margin-top: -40px;
             }
         }
     }

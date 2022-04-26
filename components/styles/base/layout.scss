@@ -58,6 +58,17 @@ body {
     }
 }
 
+.section.theme {
+    &-black {
+        color: #fff;
+        background-color: $color-black !important;
+    }
+
+    &-red {
+        background-color: $color-red !important;
+    }
+}
+
 .text-center {
     text-align: center !important;
 }

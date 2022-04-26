@@ -38,8 +38,8 @@
         box-shadow: 0 0 8px 1px rgba(#000, .15);
 
         .nav-list {
-            > li {
-                > a {
+            >li {
+                >a {
                     color: $color-black;
 
                     &:hover {
@@ -50,6 +50,7 @@
         }
 
         #logo {
+
             &-text path,
             &-trademark path,
             &-line {
@@ -73,12 +74,12 @@
     margin: 0;
     list-style-type: none;
 
-    > li {
+    >li {
         &:not(:last-child) {
             margin-right: 40px;
         }
 
-        > a {
+        >a {
             position: relative;
             color: #fff;
             display: inline-block;
@@ -100,6 +101,7 @@
             }
 
             &:hover {
+                font-weight: 500;
                 color: $color-orange;
                 text-decoration: none;
 
@@ -108,5 +110,21 @@
                 }
             }
         }
+    }
+}
+
+.theme-red {
+    .nav-list>li>a {
+        &::after {
+            background-color: $color-black;
+        }
+
+        &:hover {
+            color: $color-black;
+        }
+    }
+
+    &.header-sticky .nav-list>li>a:hover {
+        color: $color-black;
     }
 }

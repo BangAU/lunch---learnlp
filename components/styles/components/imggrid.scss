@@ -1,0 +1,50 @@
+.section-imggrid {
+    padding: 0;
+}
+
+.imggrid {
+    &-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        gap: 0px 0px;
+        grid-template-areas:
+            "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
+            "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
+            "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
+            "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4"
+            "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
+
+        @media (max-width: 991px) {
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+            grid-template-areas:
+                "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3"
+                "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3"
+                "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3"
+                "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4"
+                "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
+        }
+
+        img {
+            display: block;
+            @include imgfit;
+        }
+
+        .item:nth-child(1) {
+            grid-area: item-1;
+        }
+
+        .item:nth-child(2) {
+            grid-area: item-2;
+        }
+
+        .item:nth-child(3) {
+            grid-area: item-3;
+        }
+
+        .item:nth-child(4) {
+            grid-area: item-4;
+        }
+    }
+}

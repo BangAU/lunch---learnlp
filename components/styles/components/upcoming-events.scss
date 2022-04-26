@@ -1,6 +1,10 @@
 .section-upcoming-events {
     padding: 120px 0 133px;
 
+    &.theme-red {
+        background-color: #fff !important;
+    }
+
     @media (max-width: 991px) {
         padding: 64px 0 83px;
     }
@@ -139,15 +143,13 @@
 
             strong,
             small,
-            small + span {
+            small+span {
                 @media (max-width: 991px) {
                     display: block;
                 }
             }
 
-            .speaker{
-                display: block;
-            }
+            span {}
 
             small {
                 font-size: 14px;
@@ -228,6 +230,26 @@
             &:nth-child(2) {
                 @media (min-width: 992px) {
                     min-width: 320px;
+                }
+            }
+        }
+    }
+}
+
+.theme-red {
+    .upcoming-events-table-wrap {
+        .upcoming-events-table {
+            thead {
+                background-color: $color-red;
+            }
+        }
+
+        .load-more {
+            span {
+
+                &::before,
+                &::after {
+                    color: $color-red;
                 }
             }
         }
