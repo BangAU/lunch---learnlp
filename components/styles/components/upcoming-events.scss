@@ -143,7 +143,7 @@
 
             strong,
             small,
-            small+span {
+            small + span {
                 @media (max-width: 991px) {
                     display: block;
                 }
@@ -246,7 +246,6 @@
 
         .load-more {
             span {
-
                 &::before,
                 &::after {
                     color: $color-red;

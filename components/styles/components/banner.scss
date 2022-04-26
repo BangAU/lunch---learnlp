@@ -5,7 +5,7 @@ $banner-img: 516px;
     background-color: $color-green;
     padding: 176px 0 0;
 
-    >.layout-container {
+    > .layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -188,7 +188,6 @@ $banner-img: 516px;
     &-black {
         .banner {
             .shapes {
-
                 &::before,
                 &::after {
                     background-color: $color-green-light;
@@ -199,7 +198,6 @@ $banner-img: 516px;
 
     &-red {
         .branding {
-
             &-plus,
             &-circ {
                 svg path {

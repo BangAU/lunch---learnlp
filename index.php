@@ -444,7 +444,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="name">
+                                            <div class="name dis-md">
                                                 <img src="./images/dyln.svg">
                                             </div>
                                         </div>
@@ -539,7 +539,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="name">
+                                            <div class="name dis-md">
                                             <img src="./images/mig-pink.svg" alt="">
                                             </div>
                                         </div>
@@ -582,7 +582,7 @@
                                                         transform="translate(38.831 1.799)" fill="#ffa35b" />
                                                 </svg>
                                             </div>
-                                            <div class="name app-md">
+                                            <div class="name  app-md">
                                                 <svg xmlns="http://www.w3.org/2000/svg"
                                                     xmlns:xlink="http://www.w3.org/1999/xlink" width="106.738"
                                                     height="781" viewBox="0 0 106.738 781">
@@ -633,7 +633,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="name">
+                                            <div class="name dis-md">
                                                  <img src="./images/nath-pink.svg" alt="">
                                             </div>
                                         </div>

@@ -7,27 +7,18 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-        gap: 0px 0px;
-        grid-template-areas:
-            "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
-            "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
-            "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3 item-3"
-            "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4"
-            "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
+        gap: 0 0;
+        grid-template-areas: "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3" "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3 item-3" "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3 item-3" "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4" "item-2 item-2 item-2 item-2 item-2 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
 
         @media (max-width: 991px) {
             grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
             grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-            grid-template-areas:
-                "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3"
-                "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3"
-                "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3"
-                "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4"
-                "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
+            grid-template-areas: "item-1 item-1 item-1 item-1 item-1 item-3 item-3 item-3 item-3 item-3 item-3" "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3" "item-2 item-2 item-2 item-2 item-2 item-3 item-3 item-3 item-3 item-3 item-3" "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4" "item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4 item-4";
         }
 
         img {
             display: block;
+
             @include imgfit;
         }
 
