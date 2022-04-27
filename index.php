@@ -289,7 +289,7 @@
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
                         Branding today plays a vital role of how a business is perceived. With social media, digital advertising and the wider internet environment, customers get exposed to new brands every day. To cut through increasing competition your business needs to go the extra mile to ensure your brand stands out and establishes a strong impression quickly.</p>
-                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="500">Hear directly from our Bang Creative Team how you can build a strong brand identity, from establishing brand foundations, to the creation of comprehensive brand guidelines. Learn some simple tips and tricks for improving your brand as well as find out what can be the difference between a good identity and a great one! </p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="500">Hear directly from our Bang Creative Team how you can build a strong brand identity, from establishing brand foundations, to the creation of comprehensive brand guidelines. Learn some simple tips for improving your brand as well as find out what can be the difference between a good identity and a great one! </p>
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200" data-aos-duration="500">Presented by 3 of Bang AU's creatives - <strong>Dylan Koh, Miguel Ferreros and Nathan Cunial</strong>.</p>
 
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1000"
@@ -816,7 +816,7 @@
                             <div class="layout-container">
                                 <div class="text-inner">
                                     <div class="chattous-content">
-                                        <h3>Let’s chat!</h3>
+                                        <h3>Let's chat!</h3>
                                         <p>Have a question about our Lunch and Learn series? Or want to speak with us
                                             on how Bang can help your business or brand take off? Contact us and we
                                             will be in touch within 24 hours.</p>
