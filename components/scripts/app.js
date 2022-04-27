@@ -30,6 +30,9 @@ document.addEventListener('DOMContentLoaded', function () {
     upcomingTableReadMore()
 
     smooth_scroll()
+
+    // name height adjust
+    // name_height_adjust();
 });
 
 //function called on window resize
@@ -188,3 +191,11 @@ function smooth_scroll() {
         }, 800);
     });
 }
+
+function name_height_adjust() {
+    // First we get the viewport height and we multiple it by 1% to get a value for a vh unit
+    var nh = $('.section-sepakers').height(); // Then we set the value in the --vh custom property to the root of the document
+  
+    document.documentElement.style.setProperty('--nameheight', "".concat(nh, "px"));
+  } //smooth scroll for business unit
+  

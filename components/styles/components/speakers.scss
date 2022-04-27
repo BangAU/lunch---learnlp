@@ -1,7 +1,7 @@
 .section-speakers {
     color: #fff;
     background-color: $color-green;
-    padding: 68px 0 42px;
+    padding: 0;
     overflow: hidden;
 
     &.theme-red {
@@ -52,7 +52,13 @@
 
 .speakers {
     .title {
+        position: absolute;
+        width: 100%;
+        top: 80px;
         text-align: center;
+        @media (max-width: 991px) {
+            top: 40px;
+        }
 
         .title-divider {
             margin: 20px 0 78px;
@@ -71,20 +77,22 @@
 
     &-slider {
         &.slick-slider {
-            margin-bottom: 79px;
+            margin-bottom: 0;
 
             @media (max-width: 991px) {
-                margin-bottom: 66px;
+                margin-bottom: 0;
             }
         }
 
         .slick {
             &-list {
                 overflow: visible !important;
-
-                @media (min-width: 992px) {
-                    margin: 0 -30px;
-                }
+            }
+            &-track{
+                display: flex !important;
+            }
+            &-slide{
+                height: inherit !important;
             }
 
             &-prev,
@@ -98,7 +106,7 @@
                 border-color: #fff;
                 border-style: solid;
                 border-radius: 0;
-                top: 32%;
+                top: 40%;
                 transform: translateY(-50%) rotate(-45deg);
 
                 @media (max-width: 991px) {
@@ -126,12 +134,8 @@
 
             &-dots {
                 position: absolute;
-                bottom: -70px;
+                bottom: 40px;
                 left: 0;
-
-                @media (max-width: 991px) {
-                    bottom: -66px;
-                }
 
                 li {
                     width: auto;
@@ -162,19 +166,19 @@
     }
 
     &-item {
-        @media (min-width: 992px) {
-            .layout-container {
-                padding: 0;
-            }
+        height: 100%;
+        .layout-container {
+            height: 100%;
         }
 
         .inner {
             display: flex;
-            align-items: center;
-            padding: 30px;
+            padding: 200px 0 120px;
+            height: 100%;
+            position: relative;
 
             @media (max-width: 991px) {
-                padding: 90px 0 0;
+                padding: 150px 0 80px;
                 flex-wrap: wrap;
             }
         }
@@ -183,6 +187,7 @@
             position: relative;
             width: 277px;
             height: 277px;
+            margin-top: 30px;
 
             @media (max-width: 991px) {
                 @include margin-auto;
@@ -210,31 +215,24 @@
                     animation: rotate 20s linear infinite;
                 }
             }
+        }
+        .name {
+            width: 277px;
+            z-index: -1;
+            position: absolute;
+            height: 100%;
+            top: 0;
+            text-align: center;
 
-            .name {
-                z-index: -1;
+            img,
+            svg {
+                width: auto;
+                height: 100%;
+                display: inline-block;
+            }
 
-                @include absolcenter;
-
-                height: 780px;
-
-                // transform: translate(-50%, -50%) scale(0);
-                // transition: all .5s ease-out;
-                // transition-delay: 0s;
-                @media (max-width: 991px) {
-                    top: -80px;
-                    transform: translateX(-50%);
-                }
-
-                img,
-                svg {
-                    width: auto;
-                    height: 100%;
-                }
-
-                svg path {
-                    fill: $color-black-1;
-                }
+            svg path {
+                fill: $color-black-1;
             }
         }
 
