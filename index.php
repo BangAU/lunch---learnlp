@@ -147,7 +147,7 @@
                         <li><a href="#events">Events</a></li>
                     </ul>
                 </nav>
-                <a target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791"
+                <a target="_blank" href="https://register.gotowebinar.com/register/1122608391690430222"
                     class="btn btn-black dis-md">Register now</a>
                 <button class="btn-sidenav app-md">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18">
@@ -250,7 +250,7 @@
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
                                             <a target="_blank"
-                                                href="https://register.gotowebinar.com/register/6626731713591435791"
+                                                href="https://register.gotowebinar.com/register/1122608391690430222"
                                                 class="btn btn-black w-icon">Register now
                                                 <div class="icon">
                                                     <img src="./images/branding-btn.svg" alt="">
@@ -316,7 +316,7 @@
                             </ul>
                         </div> -->
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
-                            target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791"
+                            target="_blank" href="https://register.gotowebinar.com/register/1122608391690430222"
                             class="btn btn-red w-icon">Register now <div class="icon"><img
                                     src="./images/branding-btn.svg" alt=""></div></a>
                     </div>
@@ -837,7 +837,7 @@
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
                                     <a target="_blank"
-                                        href="https://register.gotowebinar.com/register/6626731713591435791"
+                                        href="https://register.gotowebinar.com/register/1122608391690430222"
                                         class="btn btn-black w-icon">Register now <div class="icon"><img
                                                 src="./images/branding-btn.svg" alt=""></div></a>
                                 </div>
