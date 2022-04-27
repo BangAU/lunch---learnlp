@@ -238,13 +238,13 @@
                                         <!-- <div class="text-events-content"> -->
                                         <div class="location" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="900" data-aos-duration="900">
-                                            <h2>Digital Marketing+</h2>
-                                            <h4><span class="font-weight-light">Webinar</span></h4>
+                                            <h2>How to come up with <br/>Great Brand Identities</h2>
+                                            <!-- <h4><span class="font-weight-light">Webinar</span></h4> -->
                                         </div>
                                         <div class="time" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="1200" data-aos-duration="1200">
-                                            <h4 class="day">Wednesday 20th April 2022</h4>
-                                            <h4 class="hour">1pm - 1:30pm AEST</h4>
+                                            <h4 class="day">Wednesday 18th May 2022</h4>
+                                            <h4 class="hour">1pm - 1:30pm AEDT</h4>
                                             <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
@@ -288,34 +288,11 @@
                 <div class="eventregister-details">
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
-                            There is no doubt digital marketing strategy plays a critical role when it comes to the
-                            success of any business.
-                            When implemented in the right way,
-                            it will enable your business to engage with customers, connect with new ones, and experience
-                            consistent lasting growth.
-                            It defines how you differentiate from the competition.</p>
-                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="800">
-                            Join <strong>Janice Tong</strong>, Acting Managing Director, Head of Strategic Partnerships
-                            and Sales for Bang as she shares tips and tricks on
-                            how you can generate genuine interest and engagement and enhance your brand’s footprint to
-                            deliver a good ROI. </p>
-                        <!-- <div class="eventregister-details-list">
-                            <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
-                                data-aos-duration="1000">Key areas of discussion will include</p>
-                            <ul class="list">
-                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
-                                    data-aos-duration="1100">Description 1 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
-                                    data-aos-duration="1200">Description 2 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1300"
-                                    data-aos-duration="1300">Description 3 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1400"
-                                    data-aos-duration="1400">Description 4 goes here</li>
-                                <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1500"
-                                    data-aos-duration="1500">Description 5 goes here</li>
-                            </ul>
-                        </div> -->
-                        <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
+                        Branding today plays a vital role of how a business is perceived. With social media, digital advertising and the wider internet environment, customers get exposed to new brands every day. To cut through increasing competition your business needs to go the extra mile to ensure your brand stands out and establishes a strong impression quickly.</p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="500">Hear directly from our Bang Creative Team how you can build a strong brand identity, from establishing brand foundations, to the creation of comprehensive brand guidelines. Learn some simple tips and tricks for improving your brand as well as find out what can be the difference between a good identity and a great one! </p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200" data-aos-duration="500">Presented by 3 of Bang AU's creatives - <strong>Dylan Koh, Miguel Ferreros and Nathan Cunial</strong>.</p>
+
+                        <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1000"
                             target="_blank" href="https://register.gotowebinar.com/register/1122608391690430222"
                             class="btn btn-red w-icon">Register now <div class="icon"><img
                                     src="./images/branding-btn.svg" alt=""></div></a>
@@ -329,24 +306,21 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="600"
-                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in
-                                    the B2B space with a headcount of 1 - 200.
-                                    Attendees need not have previous marketing experience but require marketing know-how
-                                    as a function of their role.</p>
+                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in the B2B space with a headcount of 1 - 5000. Attendees need not have previous marketing experience but require marketing know-how as a function of their role.</p>
                                 <ul class="list">
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
                                         data-aos-duration="700">Brand marketers.</li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800"
                                         data-aos-duration="800">Brand managers. </li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
-                                        data-aos-duration="900">Channel Partners who require marketing knowledge as a
-                                        function.</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
-                                        data-aos-duration="1000">Business leaders who require marketing knowledge as a
-                                        function.</li>
+                                        data-aos-duration="900">Channel Partners or business leaders who require marketing knowledge as a function.</li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
                                         data-aos-duration="1100">B2B professionals who work within the marketing/digital
                                         marketing space. </li>
+                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1300"
+                                        data-aos-duration="1300">
+                                    Anyone who needs a bit of inspiration and guidance when it comes to brand identity.
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
@@ -407,21 +381,10 @@
                                     <div class="text">
                                         <h5>Dylan Koh</h5>
                                         <h6>Creative Director and Fashionista</h6>
-                                        <p>Creative Director at Bang AU, with over 15 years of experience developing
-                                            award winning designs for the channel, Dylan has worked on creative and
-                                            branding projects for many world class IT companies, such as IBM,
-                                            Microsoft, Cisco, AWS, NTT, SAP, DXC just to name a few.</p>
-                                        <p>With a strong focus on branding, creative direction, project management,
-                                            print, illustration and conceptual design, Dylan is a jack of all
-                                            trades. His strong interest in popular culture, fashion, social media
-                                            and internet culture keeps his designs fresh, trending and original.
-                                            This is especially valuable when creating brands and executions as it
-                                            ensures clients are getting identities that have the most longevity,
-                                            connection, and clarity as possible. </p>
+                                        <p>Creative Director at Bang AU, with over 15 years of experience developing award winning designs for the channel, Dylan has worked on creative and branding projects for many world class IT companies, such as IBM, Microsoft, Cisco, AWS, NTT, SAP, DXC just to name a few. </p>
+                                        <p>With a strong focus on branding, creative direction, project management, print, illustration and conceptual design, Dylan is a jack of all trades. His strong interest in popular culture, fashion, social media and internet culture keeps his designs fresh, trending and original. This is especially valuable when creating brands and executions as it ensures clients are getting identities that have the most longevity, connection, and clarity as possible. </p>
 
-                                        <p>A true lover of all thing aesthetic, you can always rely on his creative
-                                            direction and designs to be sharp, sophisticated, relevant and on trend.
-                                        </p>
+                                        <p>A true lover of all thing aesthetic, you can always rely on his creative direction and designs to be sharp, sophisticated, relevant and on trend.</p>
                                     </div>
                                 </div>
                             </div>
@@ -448,20 +411,8 @@
                                     <div class="text">
                                         <h5>Miguel Ferreros</h5>
                                         <h6>Senior Designer, Big Daddy and Sneakers Collector</h6>
-                                        <p>Miguel is Bang’s Senior Designer. A student of the internet, he is a
-                                            master of the digital domain. Whether it is web design, digital
-                                            strategy, UI, or UX he is able to take client’s projects from conception
-                                            to execution and beyond through a well thought out and considered design
-                                            practice. He often takes clients on journey from having no brand at all
-                                            through to having a fully realised brand guideline and fully thought out
-                                            and well establish website that benefits multiple levels of their
-                                            business.</p>
-                                        <p>His ongoing love for all things new drives his learning, be it 3D
-                                            modelling, cutting edge CMS platforms or the latest UI trends, you will
-                                            always find inspiration and innovation in his designs and executions.
-                                            This is also backed up with an indepth knowledge around best practices
-                                            and UX standards, meaning when we work together on branding projects you
-                                            are assured you have all the bases covered.</p>
+                                        <p>Miguel is Bang's Senior Designer. A student of the internet, he is a master of the digital domain. Whether it is web design, digital strategy, UI, or UX he is able to take client's projects from conception to execution and beyond through a well thought out and considered design practice. He often takes clients on journey from having no brand at all through to having a fully realised brand guideline and fully thought out and well establish website that benefits multiple levels of their business.</p>
+                                        <p>His ongoing love for all things new drives his learning, be it 3D modelling, cutting edge CMS platforms or the latest UI trends, you will always find inspiration and innovation in his designs and executions. This is also backed up with an indepth knowledge around best practices and UX standards, meaning when we work together on branding projects you are assured you have all the bases covered. </p>
                                     </div>
                                 </div>
                             </div>
@@ -486,23 +437,10 @@
                                         <img src="./images/name-nathan-pink.svg" alt="">
                                     </div>
                                     <div class="text">
-                                        <h5>Dylan Koh</h5>
-                                        <h6>Creative Director and Fashionista</h6>
-                                        <p>Creative Director at Bang AU, with over 15 years of experience developing
-                                            award winning designs for the channel, Dylan has worked on creative and
-                                            branding projects for many world class IT companies, such as IBM,
-                                            Microsoft, Cisco, AWS, NTT, SAP, DXC just to name a few.</p>
-                                        <p>With a strong focus on branding, creative direction, project management,
-                                            print, illustration and conceptual design, Dylan is a jack of all
-                                            trades. His strong interest in popular culture, fashion, social media
-                                            and internet culture keeps his designs fresh, trending and original.
-                                            This is especially valuable when creating brands and executions as it
-                                            ensures clients are getting identities that have the most longevity,
-                                            connection, and clarity as possible. </p>
-
-                                        <p>A true lover of all thing aesthetic, you can always rely on his creative
-                                            direction and designs to be sharp, sophisticated, relevant and on trend.
-                                        </p>
+                                        <h5>Nathan Cunial</h5>
+                                        <h6>Conceptual Designer, Artist and Fisherman.</h6>
+                                        <p>Creativity or problem solving is at the heart of Nathan’s practice. With a strong background in music and fine art production, imagination and divergent thinking are what is leveraged within the Bang team. With strong copy writing, iteration and critical analysis skills, Nathan seeks to explore all avenues to create a unique and personality driven creative and/or brand for our clients. </p>
+                                        <p>Often the core of what makes a good brand is the story, feelings or metaphors behind the brand. Whether it's video gaming, music engineering, video production or Adobe Suite, Nathan is at home in the tech world. Combined with his creative strengths it opens up countless possibilities to developing strong concepts, long lasting brands and deep and successful advertising campaigns that actually engage. Recently he has been growing his skills in CX and UX and has been strongly integrating an empathic design thinking approach into his practice. </p>
                                     </div>
                                 </div>
                             </div>
@@ -559,7 +497,7 @@
                                         <p>
                                             <strong>18th May 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -581,7 +519,7 @@
                                         <p>
                                             <strong>15th June 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -608,7 +546,7 @@
                                         <p>
                                             <strong>20th July 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -634,7 +572,7 @@
                                         <p>
                                             <strong>17th August 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -658,7 +596,7 @@
                                         <p>
                                             <strong>21st September 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -686,7 +624,7 @@
                                         <p>
                                             <strong>19th October 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -710,7 +648,7 @@
                                         <p>
                                             <strong>16th November 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -732,7 +670,7 @@
                                         <p>
                                             <strong>21st December 2022</strong>
                                             <span>Wednesday</span>
-                                            <span>1pm - 1:30pm AEST</span>
+                                            <span>1pm - 1:30pm AEDT</span>
                                         </p>
                                     </td>
                                     <td>
@@ -826,13 +764,13 @@
                                 <!-- <div class="text-events-content"> -->
                                 <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
                                     data-aos-duration="900">
-                                    <h2>Digital Marketing +</h2>
+                                    <h2>How to Come Up with Great Brand Identities</h2>
                                 </div>
                                 <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
                                     data-aos-duration="1200">
-                                    <h4 class="day">Wednesday 20th April 2022</h4>
-                                    <h4 class="hour">1pm - 1:30pm AEST</h4>
-                                    <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                    <h4 class="day">Wednesday 18th May 2022</h4>
+                                    <h4 class="hour">1pm - 1:30pm AEDT</h4>
+                                    <p class="timeframe">11am - 11:30am SGT | 3pm - 3:30pm NZST</p>
                                 </div>
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
@@ -882,21 +820,6 @@
                                         <p>Have a question about our Lunch and Learn series? Or want to speak with us
                                             on how Bang can help your business or brand take off? Contact us and we
                                             will be in touch within 24 hours.</p>
-                                        <!-- <form action="">
-                                            <div class="formfield">
-                                                <input type="text" placeholder="Full name">
-                                            </div>
-                                            <div class="formfield">
-                                                <input type="text" placeholder="Job title">
-                                            </div>
-                                            <div class="formfield">
-                                                <input type="text" placeholder="Company name">
-                                            </div>
-                                            <div class="formfield">
-                                                <input type="email" placeholder="Email">
-                                            </div>
-                                            <button type="submit" class="btn">Submit</button>
-                                        </form> -->
                                         <a href="mailto:info@bang.com.au?subject=Lunch and Learn Enquiry"> <button
                                                 class="btn btn-red w-icon">Contact us! <div class="icon"><img
                                                         src="./images/branding-btn.svg" alt=""></div></button></a>
