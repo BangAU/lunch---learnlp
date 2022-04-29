@@ -396,7 +396,7 @@
                                 <div class="inner">
                                     <div class="media">
                                         <div class="profile">
-                                            <img src="./images/miguel.png" alt="">
+                                            <img src="./images/migs-new-img.png" alt="">
                                         </div>
                                         <div class="circ">
                                             <img src="./images/branding-circ-red.svg">
@@ -410,7 +410,7 @@
                                     </div>
                                     <div class="text">
                                         <h5>Miguel Ferreros</h5>
-                                        <h6>Senior Designer, Big Daddy and Sneakers Collector</h6>
+                                        <h6>Senior Designer, Big Daddy and Sneakerhead</h6>
                                         <p>Miguel is Bang's Senior Designer. A student of the internet, he is a master of the digital domain. Whether it is web design, digital strategy, UI, or UX he is able to take client's projects from conception to execution and beyond through a well thought out and considered design practice. He often takes clients on journey from having no brand at all through to having a fully realised brand guideline and fully thought out and well establish website that benefits multiple levels of their business.</p>
                                         <p>His ongoing love for all things new drives his learning, be it 3D modelling, cutting edge CMS platforms or the latest UI trends, you will always find inspiration and innovation in his designs and executions. This is also backed up with an indepth knowledge around best practices and UX standards, meaning when we work together on branding projects you are assured you have all the bases covered. </p>
                                     </div>
