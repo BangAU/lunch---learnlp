@@ -819,7 +819,7 @@
                                         <h3>Let's chat!</h3>
                                         <p>Have a question about our Lunch and Learn series? Or want to speak with us
                                             on how Bang can help your business or brand take off? Contact us and we
-                                            will be in touch within 24 hours.</p>
+                                            will be in touch.</p>
                                         <a href="mailto:info@bang.com.au?subject=Lunch and Learn Enquiry"> <button
                                                 class="btn btn-red w-icon">Contact us! <div class="icon"><img
                                                         src="./images/branding-btn.svg" alt=""></div></button></a>
