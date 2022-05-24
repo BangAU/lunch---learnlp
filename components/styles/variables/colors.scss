@@ -7,6 +7,8 @@ $color-black: #242424;
 $color-black-1: #393737;
 $color-white: #fff;
 $color-border: #ddd;
+$color-lightpurple: #cdc1ff;
+
 
 .color {
     &-orange {
@@ -15,6 +17,10 @@ $color-border: #ddd;
 
     &-green {
         color: $color-green !important;
+    }
+
+    &-lightpurple {
+        color: $color-lightpurple !important;
     }
 
     &-gray {

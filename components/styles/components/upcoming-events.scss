@@ -1,7 +1,8 @@
 .section-upcoming-events {
     padding: 120px 0 133px;
 
-    &.theme-red {
+    &.theme-red,
+    &.theme-lightpurple {
         background-color: #fff !important;
     }
 
@@ -184,7 +185,7 @@
                     display: flex;
                     flex-flow: column;
                     padding: 18px 0;
-                    border-bottom: .5px solid $color-black;
+                    border-bottom: 0.5px solid $color-black;
                 }
             }
 
@@ -216,7 +217,7 @@
         td {
             padding-right: 30px;
             vertical-align: top;
-            border-bottom: .5px solid $color-black;
+            border-bottom: 0.5px solid $color-black;
 
             &:first-child {
                 padding-left: 8px;
@@ -249,6 +250,25 @@
                 &::before,
                 &::after {
                     color: $color-red;
+                }
+            }
+        }
+    }
+}
+
+.theme-lightpurple {
+    .upcoming-events-table-wrap {
+        .upcoming-events-table {
+            thead {
+                background-color: $color-lightpurple;
+            }
+        }
+
+        .load-more {
+            span {
+                &::before,
+                &::after {
+                    color: $color-lightpurple;
                 }
             }
         }

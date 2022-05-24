@@ -4,7 +4,8 @@
     padding: 0;
     overflow: hidden;
 
-    &.theme-red {
+    &.theme-red,
+    &.theme-lightpurple {
         background-color: $color-black !important;
     }
 
@@ -56,6 +57,7 @@
         width: 100%;
         top: 80px;
         text-align: center;
+
         @media (max-width: 991px) {
             top: 40px;
         }
@@ -88,10 +90,12 @@
             &-list {
                 overflow: visible !important;
             }
-            &-track{
+
+            &-track {
                 display: flex !important;
             }
-            &-slide{
+
+            &-slide {
                 height: inherit !important;
             }
 
@@ -167,6 +171,7 @@
 
     &-item {
         height: 100%;
+
         .layout-container {
             height: 100%;
         }
@@ -216,6 +221,7 @@
                 }
             }
         }
+
         .name {
             width: 277px;
             z-index: -1;
@@ -280,5 +286,30 @@
 
     .speakers-slider .slick-dots li.slick-active button {
         background-color: $color-red;
+    }
+}
+
+.theme-lightpurple {
+    .shapes::before {
+        background-color: $color-lightpurple;
+    }
+
+    .title {
+        h3 {
+            color: $color-lightpurple;
+        }
+    }
+
+    .speakers-item .media {
+        .circ,
+        .name {
+            svg path {
+                fill: $color-lightpurple;
+            }
+        }
+    }
+
+    .speakers-slider .slick-dots li.slick-active button {
+        background-color: $color-lightpurple;
     }
 }

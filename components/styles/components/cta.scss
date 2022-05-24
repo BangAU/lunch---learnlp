@@ -151,3 +151,13 @@
         }
     }
 }
+
+.theme-lightpurple {
+
+    .cta {
+
+        .shapes::before {
+            background-color: $color-green-light;
+        }
+    }
+}

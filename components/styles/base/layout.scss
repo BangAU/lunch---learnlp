@@ -67,6 +67,10 @@ body {
     &-red {
         background-color: $color-red !important;
     }
+
+    &-lightpurple {
+        background-color: $color-lightpurple !important;
+    }
 }
 
 .text-center {
@@ -94,6 +98,10 @@ body {
     &l {
         &-auto {
             margin-left: auto !important;
+        }
+
+        &-0 {
+            margin-left: 0 !important;
         }
     }
 }
@@ -220,6 +228,10 @@ body {
     &--1400 {
         max-width: 1400px !important;
     }
+}
+
+.w-100 {
+    width: 100% !important;
 }
 
 .imgfit {

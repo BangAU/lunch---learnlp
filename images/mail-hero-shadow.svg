@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1465.119" height="216.171" viewBox="0 0 1465.119 216.171">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="1465.119" height="216.171" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_689" data-name="Path 689" d="M1465.119,108.085c0,59.694-327.978,108.086-732.559,108.086S0,167.78,0,108.085,327.978,0,732.559,0s732.559,48.392,732.559,108.085" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="3.263" gradientTransform="matrix(0.148, 0, 0, -0.116, 0, 1.116)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a0ca3"/>
+      <stop offset="0.075" stop-color="#552daf"/>
+      <stop offset="0.212" stop-color="#8164c4"/>
+      <stop offset="0.351" stop-color="#a793d6"/>
+      <stop offset="0.487" stop-color="#c7bae4"/>
+      <stop offset="0.622" stop-color="#dfd8f0"/>
+      <stop offset="0.753" stop-color="#f1edf8"/>
+      <stop offset="0.881" stop-color="#fbfafd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_2462" data-name="Group 2462" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate">
+    <g id="Group_2461" data-name="Group 2461" clip-path="url(#clip-path)">
+      <g id="Group_2460" data-name="Group 2460">
+        <g id="Group_2459" data-name="Group 2459" clip-path="url(#clip-path)">
+          <g id="Group_2458" data-name="Group 2458" opacity="0.2" style="mix-blend-mode: multiply;isolation: isolate">
+            <g id="Group_2457" data-name="Group 2457">
+              <g id="Group_2456" data-name="Group 2456" clip-path="url(#clip-path)">
+                <g id="Group_2455" data-name="Group 2455" transform="translate(0 0)">
+                  <g id="Group_2454" data-name="Group 2454" clip-path="url(#clip-path-4)">
+                    <rect id="Rectangle_123" data-name="Rectangle 123" width="1465.119" height="216.171" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
