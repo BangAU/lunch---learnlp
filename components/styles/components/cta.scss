@@ -127,6 +127,7 @@
         }
 
         .time {
+
             .day,
             .hour {
                 font-size: 28px;
@@ -159,5 +160,8 @@
         .shapes::before {
             background-color: $color-green-light;
         }
+    }
+    h2 {
+        color: #242424;
     }
 }

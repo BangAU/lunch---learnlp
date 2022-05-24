@@ -238,13 +238,13 @@
                                         <div class="location" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="900" data-aos-duration="900">
                                             <h2>Tips and Tricks:</h2>
-                                            <h4><span class="font-weight-light">eDM Best Practice</span></h4>
+                                            <h2><span class="font-weight-light">eDM Best Practice</span></h2>
                                         </div>
                                         <div class="time" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="1200" data-aos-duration="1200">
-                                            <h4 class="day">Wednesday 15th April 2022</h4>
+                                            <h4 class="day">Wednesday 15th June 2022 </h4>
                                             <h4 class="hour">1pm - 1:30pm AEDT</h4>
-                                            <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                            <p class="timeframe">11am - 11:30am SGT  |  3pm - 3:30pm NZST </p>
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
@@ -288,17 +288,9 @@
                 <div class="eventregister-details">
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
-                            There is no doubt digital marketing strategy plays a critical role when it comes to the
-                            success of any business.
-                            When implemented in the right way,
-                            it will enable your business to engage with customers, connect with new ones, and experience
-                            consistent lasting growth.
-                            It defines how you differentiate from the competition.</p>
+                        One of the key channels to integrate a successful marketing campaign is the inclusion of an eDM within the nurture journey. There are very few other mediums that have the ability to reach a potential customer directly in their inbox. This is where a strongly curated eDM can work in your favour and pique a person’s interest, otherwise, it will suffer the fate of being sent straight to the recycling bin! To ensure you are reaching the right audience (data) with the right message (content and context) requires a good understanding of eDM principles. </p>
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="800">
-                            Join <strong>Janice Tong</strong>, Acting Managing Director, Head of Strategic Partnerships
-                            and Sales for Bang as she shares tips and tricks on
-                            how you can generate genuine interest and engagement and enhance your brand’s footprint to
-                            deliver a good ROI. </p>
+                            Join <strong>Julie Growcott</strong>, Head of Client Services, as she outlines key strategies in creating and sending an effective eDM; and how to make your message stand out in a crowded marketplace. </p>
                         <!-- <div class="eventregister-details-list">
                             <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
                                 data-aos-duration="1000">Key areas of discussion will include</p>
@@ -329,10 +321,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="600"
-                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in
-                                    the B2B space with a headcount of 1 - 200.
-                                    Attendees need not have previous marketing experience but require marketing know-how
-                                    as a function of their role.</p>
+                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in the B2B space with a headcount of 1 - 5000. Attendees need not have previous marketing experience but require marketing know-how as a function of their role.</p>
                                 <ul class="list">
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
                                         data-aos-duration="700">Brand marketers.</li>
@@ -735,13 +724,14 @@
                             <div class="text-events">
                                 <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
                                     data-aos-duration="900">
-                                    <h2>Digital Marketing +</h2>
+                                    <h2>Tips and Tricks:</h2>
+                                    <h2><span>eDM Best Practice</span></h2>
                                 </div>
                                 <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
                                     data-aos-duration="1200">
-                                    <h4 class="day">Wednesday 20th April 2022</h4>
-                                    <h4 class="hour">1pm - 1:30pm AEST</h4>
-                                    <p class="timeframe">11am - 11:30am ACT | 3pm - 3:30pm NZST</p>
+                                    <h4 class="day">Wednesday 15th June 2022  </h4>
+                                    <h4 class="hour">1pm - 1:30pm AEDT</h4>
+                                    <p class="timeframe">11am - 11:30am SGT  |  3pm - 3:30pm NZST</p>
                                 </div>
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
