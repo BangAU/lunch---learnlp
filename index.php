@@ -281,8 +281,8 @@
                 <img src="./images/join-circle.svg" alt="">
                 <div class="hero-date dis-md" data-aos="fade-left" data-aos-easing="linear" data-aos-delay="800"
                     data-aos-duration="800">
-                    <span>18</span>
-                    <span>05</span>
+                    <span>15</span>
+                    <span>06</span>
                     <span>22</span>
                 </div>
             </div>
@@ -337,18 +337,21 @@
                                     marketing experience but require marketing know-how as a function of their role.</p>
                                 <ul class="list">
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
-                                        data-aos-duration="700">Brand marketers.</li>
+                                        data-aos-duration="700">Brand marketers
+                                    </li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800"
-                                        data-aos-duration="800">Brand managers. </li>
+                                        data-aos-duration="800">Brand managers
+                                    </li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
-                                        data-aos-duration="900">Channel Partners who require marketing knowledge as a
-                                        function.</li>
+                                        data-aos-duration="900">Channel Partners or business leaders who require
+                                        branding knowledge as a function
+                                    </li>
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
-                                        data-aos-duration="1000">Business leaders who require marketing knowledge as a
-                                        function.</li>
-                                    <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
+                                        data-aos-duration="1000">B2B professionals who work within the marketing/
+                                        digital marketing space</li>
+                                    <!-- <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1100"
                                         data-aos-duration="1100">B2B professionals who work within the marketing/digital
-                                        marketing space. </li>
+                                        marketing space. </li> -->
                                 </ul>
                             </div>
                             <div class="col-lg-6">
