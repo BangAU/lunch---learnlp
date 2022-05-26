@@ -320,7 +320,7 @@
                         </div> -->
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
                             target="_blank" href="https://register.gotowebinar.com/register/3932416954182520846"
-                            class="btn btn-lightpurple w-icon">Contact Us <div class="icon"><img
+                            class="btn btn-lightpurple w-icon">Register now <div class="icon"><img
                                     src="./images/branding-btn.svg" alt=""></div></a>
                     </div>
                     <div class="title-divider"></div>
