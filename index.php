@@ -147,8 +147,8 @@
                         <li><a href="#events">Events</a></li>
                     </ul>
                 </nav>
-                <a target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791"
-                    class="btn btn-black w-icon dis-md">Register now</a>
+                <a target="_blank" href="https://register.gotowebinar.com/register/3932416954182520846"
+                    class="btn btn-black dis-md">Register now</a>
                 <button class="btn-sidenav app-md">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18">
                         <g id="Group_156" data-name="Group 156" transform="translate(-317.5 -34.5)">
@@ -249,7 +249,7 @@
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
                                             <a target="_blank"
-                                                href="https://register.gotowebinar.com/register/6626731713591435791"
+                                                href="https://register.gotowebinar.com/register/3932416954182520846"
                                                 class="btn btn-black w-icon">Register now
                                                 <div class="icon">
                                                     <img src="./images/branding-btn.svg" alt="">
@@ -319,7 +319,7 @@
                             </ul>
                         </div> -->
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
-                            target="_blank" href="https://register.gotowebinar.com/register/6626731713591435791"
+                            target="_blank" href="https://register.gotowebinar.com/register/3932416954182520846"
                             class="btn btn-lightpurple w-icon">Contact Us <div class="icon"><img
                                     src="./images/branding-btn.svg" alt=""></div></a>
                     </div>
@@ -473,7 +473,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks: <br> Digital Marketing +</small>
+                                            <small>Tips and Tricks: <br> </small>Digital Marketing +
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
@@ -497,8 +497,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-
+                                            How to Come Up with<br> Great Brand Identities
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
@@ -519,8 +518,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks:<br> eDM Best Practice</small>
-                                            Digital Marketing +
+                                            <small>Tips and Tricks:<br></small>eDM Best Practice
                                             <span class="font-weight-light">with Julie Growcott, Head of Client
                                                 Services</span>
                                         </p>
@@ -543,8 +541,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>The Value of <br> Intent-based Marketing</small>
-                                            Digital Marketing +
+                                            The Value of <br> Intent-based Marketing
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
@@ -569,8 +566,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks: <br> The High Return </small>
-                                            Digital Marketing
+                                            <small>Tips and Tricks: <br></small>The High Return 
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
@@ -593,8 +589,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Key Considerations <br> for Effective Marketing</small>
-                                            Digital Marketing +
+                                            Key Considerations <br> for Effective Marketing
                                             <span class="font-weight-light">with Julie Growcott, Head of Client
                                                 Services</span>
                                         </p>
@@ -621,8 +616,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks:<br> Digital Marketing +</small>
-                                            Digital Marketing +
+                                            <small>Tips and Tricks:<br></small> Digital Marketing+
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
@@ -645,8 +639,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>How to Come Up with<br> Great Brand Identities</small>
-
+                                            How to Come Up with<br> Great Brand Identities
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
@@ -667,8 +660,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>The Value of <br> Intent-based Marketing</small>
-
+                                            The Value of <br> Intent-based Marketing
                                             <span class="font-weight-light">with Janice Tong, Acting Managing Director,
                                                 Head of Strategic Partnerships and Sales</span>
                                         </p>
@@ -761,7 +753,7 @@
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
                                     <a target="_blank"
-                                        href="https://register.gotowebinar.com/register/6626731713591435791"
+                                        href="https://register.gotowebinar.com/register/3932416954182520846"
                                         class="btn btn-black w-icon">Register now <div class="icon"><img
                                                 src="./images/branding-btn.svg" alt=""></div></a>
                                 </div>
