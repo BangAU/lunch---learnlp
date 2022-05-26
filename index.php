@@ -244,7 +244,7 @@
                                             data-aos-delay="1200" data-aos-duration="1200">
                                             <h4 class="day">Wednesday 15th June 2022 </h4>
                                             <h4 class="hour">1pm - 1:30pm AEDT</h4>
-                                            <p class="timeframe">11am - 11:30am SGT  |  3pm - 3:30pm NZST </p>
+                                            <p class="timeframe">11am - 11:30am SGT | 3pm - 3:30pm NZST </p>
                                         </div>
                                         <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                             data-aos-delay="1400" data-aos-duration="1400">
@@ -264,13 +264,15 @@
                         <div class="media" data-aos="fade-left" data-aos-easing="linear" data-aos-delay="500"
                             data-aos-duration="500">
                             <img src="./images/mail-hero.svg" alt="" class="hero-img">
-                            <img src="./images/mail-hero-shadow.svg" alt="" class="hero-img-shadow">
+                            <img src="./images/Ellipse-new.svg" alt="" class="hero-img-shadow">
                         </div>
-                        <!-- <div class="mousewheel scroll-nextsec dis-md">
-                        <img src="./images/mouse-wheel.svg" alt="">
-                    </div> -->
+
+                    </div>
+                    <div class="barcode dis-md">
+                        <img src="./images/banner-barcode-long.svg" alt="">
                     </div>
                 </div>
+
             </div>
         </section>
 
@@ -288,9 +290,18 @@
                 <div class="eventregister-details">
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
-                        One of the key channels to integrate a successful marketing campaign is the inclusion of an eDM within the nurture journey. There are very few other mediums that have the ability to reach a potential customer directly in their inbox. This is where a strongly curated eDM can work in your favour and pique a person’s interest, otherwise, it will suffer the fate of being sent straight to the recycling bin! To ensure you are reaching the right audience (data) with the right message (content and context) requires a good understanding of eDM principles. </p>
+                            One of the key channels to integrate a successful marketing campaign is the inclusion of an
+                            eDM within the nurture journey. There are very few other mediums that have the ability to
+                            reach a potential customer directly in their inbox. This is where a strongly curated eDM can
+                            work in your favour and pique a person’s interest, otherwise, it will suffer the fate of
+                            being sent straight to the recycling bin! To ensure you are reaching the right audience
+                            (data) with the right message (content and context) requires a good understanding of eDM
+                            principles. </p>
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="800" data-aos-duration="800">
-                            Join <strong>Julie Growcott</strong>, Head of Client Services, as she outlines key strategies in creating and sending an effective eDM; and how to make your message stand out in a crowded marketplace. </p>
+                            Join <strong>Julie Growcott</strong>, Head of Client Services, as she outlines key
+                            strategies in creating and sending an effective eDM; and how to make your message stand out
+                            in a crowded marketplace.
+                        </p>
                         <!-- <div class="eventregister-details-list">
                             <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
                                 data-aos-duration="1000">Key areas of discussion will include</p>
@@ -321,7 +332,9 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="600"
-                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in the B2B space with a headcount of 1 - 5000. Attendees need not have previous marketing experience but require marketing know-how as a function of their role.</p>
+                                    data-aos-duration="600">This webinar is primarily designed to benefit businesses in
+                                    the B2B space with a headcount of 1 - 5000. Attendees need not have previous
+                                    marketing experience but require marketing know-how as a function of their role.</p>
                                 <ul class="list">
                                     <li data-aos="fade-in" data-aos-easing="linear" data-aos-delay="700"
                                         data-aos-duration="700">Brand marketers.</li>
@@ -404,10 +417,22 @@
                                     <div class="text">
                                         <h5>Julie Growcott</h5>
                                         <h6>Head of Client Services</h6>
-                                        <p>As the Head of Client Services at Bang, being recognised as a member of the Adnews Marketing team of the year for 2020, and as a Digital Marketing Institute graduate, Julie draws on her extensive experience across both agency and client organisations, to lead a team of professionals to deliver complex data driven B2B projects. From brand to digital lead generation and marketing campaigns where eDM channel marketing is an integral component of any campaign success. </p>
-                                        <p>A detail-orientated leader with a flair for bringing people together, a creative problem solver and seasoned business developer, Julie enjoys working with seasoned professionals creating exceptional integrated campaigns, websites and brand identities. </p>
+                                        <p>As the Head of Client Services at Bang, Julie draws on her extensive
+                                            experience across both agency and client organisations to lead a team of
+                                            highly skilled professionals to deliver complex data-driven B2B projects. A
+                                            detail-oriented leader with a flair for bringing people together, Julie is a
+                                            creative problem-solver and seasoned business developer. She enjoys working
+                                            with a diverse and innovative group to create exceptional integrated
+                                            campaigns, websites and brand identities.
+                                        </p>
+                                        <p>Recognised as a member of the Adnews Marketing team of the year in 2020,
+                                            Julie is also a Digital Marketing Institute graduate, and has a deep passion
+                                            and understanding of brand and marketing campaigns as well as digital lead
+                                            generation, where eDM channel marketing is an integral component to achieve
+                                            campaign success.
+                                        </p>
 
-                                    
+
                                     </div>
                                 </div>
                             </div>
@@ -499,12 +524,9 @@
                                     </td>
                                     <td>
                                         <p>eDM is a tried and trusted way to deliver your marketing message. But many
-                                            emails
-                                            land in a person’s inbox every day. How do you make your message stand out
-                                            from
-                                            the crowd? In this session, Bang will show you some simple tips to apply
-                                            when building
-                                            an eDM and also pitfalls to avoid.</p>
+                                            emails land in a person’s inbox every day. How do you make your message
+                                            stand out from the crowd? In this session, Bang will show you some simple
+                                            tips to apply when building an eDM and also pitfalls to avoid.</p>
                                         <a href="#" class="btn-read app-md">Read more</a>
                                     </td>
                                 </tr>
@@ -720,7 +742,7 @@
                             <div class="title-divider app-md"></div>
                         </div>
                         <div class="col-lg-6">
-                          
+
                             <div class="text-events">
                                 <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
                                     data-aos-duration="900">
@@ -729,9 +751,9 @@
                                 </div>
                                 <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
                                     data-aos-duration="1200">
-                                    <h4 class="day">Wednesday 15th June 2022  </h4>
+                                    <h4 class="day">Wednesday 15th June 2022 </h4>
                                     <h4 class="hour">1pm - 1:30pm AEDT</h4>
-                                    <p class="timeframe">11am - 11:30am SGT  |  3pm - 3:30pm NZST</p>
+                                    <p class="timeframe">11am - 11:30am SGT | 3pm - 3:30pm NZST</p>
                                 </div>
                                 <div class="text-events-btn" data-aos="zoom-in" data-aos-easing="linear"
                                     data-aos-delay="1400" data-aos-duration="1400">
@@ -779,8 +801,8 @@
                                     <div class="chattous-content">
                                         <h3>Let’s chat!</h3>
                                         <p>Have a question about our Lunch and Learn series? Or want to speak with us
-                                            on how Bang can help your business or brand take off? Contact us and we
-                                            will be in touch within 24 hours.</p>
+                                            on how Bang can help your business or brand elevate to the next level?
+                                            Contact us and we will be in touch.</p>
                                         <!-- <form action="">
                                             <div class="formfield">
                                                 <input type="text" placeholder="Full name">
