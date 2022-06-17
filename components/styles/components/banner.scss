@@ -118,6 +118,7 @@ $banner-img: 516px;
     }
 
     .media {
+        display: none;
         z-index: 1;
         position: relative;
         width: $banner-img;
