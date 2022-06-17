@@ -242,7 +242,7 @@
                                         <div class="location" data-aos="fade-in" data-aos-easing="linear"
                                             data-aos-delay="900" data-aos-duration="900">
                                             <h2><span class="font-weight-light">The Value of</span></h2>
-                                            <h2>Intent Based Marketing</h2>
+                                            <h2>Intent-Based Marketing</h2>
                                             <!-- <h2><span class="font-weight-light">eDM Best Practice</span></h2> -->
                                         </div>
                                         <div class="time" data-aos="fade-in" data-aos-easing="linear"
