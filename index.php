@@ -297,6 +297,9 @@
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
                         All marketers understand the importance of generating leads and the role it plays for business growth, but what does ‘intent-based’ marketing actually entail? What are the core aspects to building out a successful solution to deliver to this key outcome? And importantly, how do you build on what you already have from lessons that can can be learnt from your past campaigns?
                         </p>
+                        <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000" data-aos-duration="500">
+                        This session aims to create a broad approach in your thinking, so that you, as a marketer can help influence ‘intent’. It will consider elements such as: data visualisation as a tool and practice, neuroscience as an approach to marketing; and combining these with cross channel marketing efforts to deliver to the ‘36 moments’ in a customer’s purchase journey.
+                        </p>
                         <!-- <div class="eventregister-details-list">
                             <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
                                 data-aos-duration="1000">Key areas of discussion will include</p>
@@ -383,7 +386,7 @@
             <div class="speakers">
                 <div class="title">
                     <div class="layout-container">
-                        <h3>Speakers</h3>
+                        <h3>Speaker</h3>
                         <div class="title-divider"></div>
                     </div>
                 </div>
@@ -556,7 +559,7 @@ including data, media, services and events.
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks: <br></small>The High Return 
+                                            <small>Tips and Tricks: <br></small>The High Value of DM Packs
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
@@ -732,7 +735,7 @@ including data, media, services and events.
                                 <div class="location" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="900"
                                     data-aos-duration="900">
                                     <h2><span class="font-weight-light">The Value of</span></h2>
-                                    <h2>Intent Based Marketing</h2>
+                                    <h2>Intent-Based Marketing</h2>
                                 </div>
                                 <div class="time" data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1200"
                                     data-aos-duration="1200">
