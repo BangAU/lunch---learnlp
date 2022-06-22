@@ -5,7 +5,7 @@ $banner-img: 516px;
     background-color: $color-green;
     padding: 176px 0 0;
 
-    >.layout-container {
+    > .layout-container {
         max-width: 100%;
         padding: 0;
     }
@@ -118,7 +118,7 @@ $banner-img: 516px;
     }
 
     .media {
-        display: none;
+        // display: none;
         z-index: 1;
         position: relative;
         width: $banner-img;
@@ -189,7 +189,6 @@ $banner-img: 516px;
     &-black {
         .banner {
             .shapes {
-
                 &::before,
                 &::after {
                     background-color: $color-green-light;
@@ -201,7 +200,6 @@ $banner-img: 516px;
     &-red,
     &-lightpurple {
         .branding {
-
             &-plus,
             &-circ {
                 svg path {
@@ -302,7 +300,9 @@ $banner-img: 516px;
                 width: 380px;
                 max-width: 95%;
                 right: auto;
+
                 @include margin-auto;
+
                 margin-bottom: 10px;
             }
 

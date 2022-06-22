@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- set Metatag for preview when sharing the link -->
-    <meta property='og:title' content="Register now"/>
-    <meta property='og:image' content="https://banglunchandlearn.com.au/images/linkedin-img.png"/>
+    <meta property='og:title' content="Register now" />
+    <meta property='og:image' content="https://banglunchandlearn.com.au/images/linkedin-img.png" />
 
     <title>Lunch and learn</title>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
@@ -266,10 +266,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="media" data-aos="fade-left" data-aos-easing="linear" data-aos-delay="500"
-                            data-aos-duration="500">
-                            <img src="./images/mail-hero.svg" alt="" class="hero-img">
-                            <img src="./images/Ellipse-new.svg" alt="" class="hero-img-shadow">
+                        <div class="media">
+                            <img src="./images/graph.png" alt="" class="hero-img">
+                            <!-- <img src="./images/Ellipse-new.svg" alt="" class="hero-img-shadow"> -->
                         </div>
 
                     </div>
@@ -295,10 +294,17 @@
                 <div class="eventregister-details">
                     <div class="join-details">
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="500" data-aos-duration="500">
-                        All marketers understand the importance of generating leads and the role it plays for business growth, but what does ‘intent-based’ marketing actually entail? What are the core aspects to building out a successful solution to deliver to this key outcome? And importantly, how do you build on what you already have from lessons that can can be learnt from your past campaigns?
+                            All marketers understand the importance of generating leads and the role it plays for
+                            business growth, but what does ‘intent-based’ marketing actually entail? What are the core
+                            aspects to building out a successful solution to deliver to this key outcome? And
+                            importantly, how do you build on what you already have from lessons that can can be learnt
+                            from your past campaigns?
                         </p>
                         <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000" data-aos-duration="500">
-                        This session aims to create a broad approach in your thinking, so that you, as a marketer can help influence ‘intent’. It will consider elements such as: data visualisation as a tool and practice, neuroscience as an approach to marketing; and combining these with cross channel marketing efforts to deliver to the ‘36 moments’ in a customer’s purchase journey.
+                            This session aims to create a broad approach in your thinking, so that you, as a marketer
+                            can help influence ‘intent’. It will consider elements such as: data visualisation as a tool
+                            and practice, neuroscience as an approach to marketing; and combining these with cross
+                            channel marketing efforts to deliver to the ‘36 moments’ in a customer’s purchase journey.
                         </p>
                         <!-- <div class="eventregister-details-list">
                             <p data-aos="fade-in" data-aos-easing="linear" data-aos-delay="1000"
@@ -318,8 +324,8 @@
                         </div> -->
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
                             target="_blank" href="https://attendee.gotowebinar.com/register/3940087147788519438"
-                            class="btn w-icon">Register now <div class="icon"><img
-                                    src="./images/branding-btn.svg" alt=""></div></a>
+                            class="btn w-icon">Register now <div class="icon"><img src="./images/branding-btn.svg"
+                                    alt=""></div></a>
                     </div>
                     <div class="title-divider"></div>
                     <div class="who-should-attend">
@@ -400,32 +406,43 @@
                                             <img src="./images/speakers-1.png" alt="">
                                         </div>
                                         <div class="circ">
-                                            <img src="./images/speakers-circ.svg"/>
+                                            <img src="./images/speakers-circ.svg" />
 
                                         </div>
                                     </div>
                                     <!-- <div class="name app-md">
-                                        <img src="./images/julie-svg-desktop.svg" alt="">
-                                    </div>
-                                    <div class="name dis-md">
-                                        <img src="./images/julie-svg-desktop.svg">
+                                        <img src="./images/janice-white.svg" alt="">
                                     </div> -->
+                                    <div class="name dis-md">
+                                        <img src="./images/janice-white.svg">
+                                    </div>
                                     <div class="text">
                                         <h5>Janice Tong</h5>
-                                        <h6>Acting Managing Director, <br/>Head of Strategic Partnerships & Sales</h6>
-                                        <p>With 23+ years in publishing and media, Janice is a strong strategist who has built and 
-grown commercially successful brands. With extensive experience in sales, strategy, 
-content marketing and publishing, Janice champions strong execution, customer 
-success and profitability for the business. In her role at Bang, she is bringing her 
-accumulated skills to hand to drive and strengthen RevOps within the NEXTGEN Group;  
-and has continued to deepen relationships within the B2B enterprise and channel IT 
-landscape by providing innovative solutions that lead a changing media landscape.
+                                        <h6>Acting Managing Director, <br />Head of Strategic Partnerships & Sales</h6>
+                                        <p>With 23+ years in publishing and media, Janice is a strong strategist who has
+                                            built and
+                                            grown commercially successful brands. With extensive experience in sales,
+                                            strategy,
+                                            content marketing and publishing, Janice champions strong execution,
+                                            customer
+                                            success and profitability for the business. In her role at Bang, she is
+                                            bringing her
+                                            accumulated skills to hand to drive and strengthen RevOps within the NEXTGEN
+                                            Group;
+                                            and has continued to deepen relationships within the B2B enterprise and
+                                            channel IT
+                                            landscape by providing innovative solutions that lead a changing media
+                                            landscape.
                                         </p>
-                                        <p><strong>Key Specialties:</strong> Driving commercial success; strategy and planning; content and 
-digital marketing; brand engagement;  leading innovation and agility in change and  
-business management; sales negotiation; establishing strong client relationships; and 
-development of new programs strategies across a full suite of B2B / B2C solutions 
-including data, media, services and events.
+                                        <p><strong>Key Specialties:</strong> Driving commercial success; strategy and
+                                            planning; content and
+                                            digital marketing; brand engagement; leading innovation and agility in
+                                            change and
+                                            business management; sales negotiation; establishing strong client
+                                            relationships; and
+                                            development of new programs strategies across a full suite of B2B / B2C
+                                            solutions
+                                            including data, media, services and events.
                                         </p>
 
 

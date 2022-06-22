@@ -65,7 +65,9 @@ body {
     }
 
     &-green {
-        background-color: $color-green;
+        //background-color: $color-green;
+        background: rgb(33, 57, 52);
+        background: linear-gradient(90deg, rgba(33, 57, 52, 1) 35%, rgba(49, 119, 105, 1) 83%);
     }
 
     &-red {
