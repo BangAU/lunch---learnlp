@@ -255,7 +255,7 @@
                                             data-aos-delay="1400" data-aos-duration="1400">
                                             <a target="_blank"
                                                 href="https://attendee.gotowebinar.com/register/3940087147788519438"
-                                                class="btn w-icon">Register now
+                                                class="btn btn-gredient w-icon">Register now
                                                 <div class="icon">
                                                     <img src="./images/branding-btn.svg" alt="">
                                                 </div>
@@ -324,8 +324,8 @@
                         </div> -->
                         <a data-aos="zoom-in" data-aos-easing="linear" data-aos-delay="1500" data-aos-duration="1500"
                             target="_blank" href="https://attendee.gotowebinar.com/register/3940087147788519438"
-                            class="btn w-icon">Register now <div class="icon"><img src="./images/branding-btn.svg"
-                                    alt=""></div></a>
+                            class="btn btn-gredient w-icon">Register now <div class="icon"><img
+                                    src="./images/branding-btn.svg" alt=""></div></a>
                     </div>
                     <div class="title-divider"></div>
                     <div class="who-should-attend">
@@ -764,7 +764,7 @@
                                     data-aos-delay="1400" data-aos-duration="1400">
                                     <a target="_blank"
                                         href="https://attendee.gotowebinar.com/register/3940087147788519438"
-                                        class="btn w-icon">Register now <div class="icon"><img
+                                        class="btn btn-gredient w-icon">Register now <div class="icon"><img
                                                 src="./images/branding-btn.svg" alt=""></div></a>
                                 </div>
                                 <!-- </div> -->
@@ -824,7 +824,7 @@
                                             <button type="submit" class="btn">Submit</button>
                                         </form> -->
                                         <a href="mailto:info@bang.com.au?subject=Lunch and Learn Enquiry"> <button
-                                                class="btn w-icon">Contact us! <div class="icon"><img
+                                                class="btn btn-gredient w-icon">Contact us! <div class="icon"><img
                                                         src="./images/branding-btn.svg" alt=""></div></button></a>
 
                                     </div>

@@ -75,6 +75,34 @@
         }
     }
 
+    &-gredient {
+        color: $color-black;
+        background: rgb(255, 163, 91);
+        background: linear-gradient(90deg, rgba(255, 163, 91, 1) 36%, rgba(236, 117, 23, 1) 71%);
+        border-color: $color-orange;
+        align-items: center;
+
+        .icon {
+            img {
+                filter: brightness(0) invert(1);
+            }
+
+            svg path {
+                fill: #fff;
+            }
+        }
+
+        &:hover {
+            color: $color-black;
+            background-color: $color-orange;
+            border-color: $color-orange;
+
+            .icon img {
+                filter: none;
+            }
+        }
+    }
+
     &-red {
         color: $color-black;
         background-color: $color-red;
