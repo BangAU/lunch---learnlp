@@ -410,9 +410,9 @@
 
                                         </div>
                                     </div>
-                                    <!-- <div class="name app-md">
-                                        <img src="./images/janice-white.svg" alt="">
-                                    </div> -->
+                                    <div class="name app-md">
+                                        <img src="./images/janice-responsive.svg" alt="">
+                                    </div>
                                     <div class="name dis-md">
                                         <img src="./images/janice-white.svg">
                                     </div>

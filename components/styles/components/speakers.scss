@@ -313,3 +313,12 @@
         background-color: $color-lightpurple;
     }
 }
+
+.name.app-md {
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 79%;
+    top: 120px;
+    text-align: center;
+}
