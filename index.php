@@ -576,7 +576,7 @@
                                     </td>
                                     <td>
                                         <p>
-                                            <small>Tips and Tricks: <br></small>The High Value of DM Packs
+                                            The High Value of DM Packs
                                             <span class="font-weight-light">with Dylan Koh, Creative Director</span>
                                         </p>
                                     </td>
